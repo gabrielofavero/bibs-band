@@ -1,42 +1,65 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Bibs Band</title>
-    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
-    <script src="assets/js/main.js"></script>
-  </head>
-  <body>
-    <header>
-      <img src="assets/img/logo.png" alt="Bibs Band" id="logo">
-      <div id="filter-box">
-        <label>
-          <input type="radio" name="filter" value="library" checked>In Library
-        </label>
-        <label>
-          <input type="radio" name="filter" value="wishlist">Wishlist
-        </label>
-        <label>
-          <input type="radio" name="filter" value="all">Rock Band Network
-        </label>
-      </div>
-      <input type="text" id="search-bar" placeholder="Search...">
-    </header>
-    <main>
-      <table id="songs-table">
-        <thead>
-          <tr>
-            <th>Title</th>
-            <th>Artist</th>
-            <th>Year</th>
-            <th>Genre</th>
-            <th>Pack Name</th>
-            <th>Release Date</th>
-            <th>Price</th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
-    </main>
-  </body>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bibs Band</title>
+
+  <!-- Apple Data -->
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-touch-fullscreen" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="RockBand" />
+  <meta name="theme-color" content="#fff">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="favicon.ico">
+  <meta name="msapplication-TileColor" content="#e4ebdb">
+  <meta name="msapplication-config" content="browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+  <script src="assets/js/main.js"></script>
+</head>
+
+<body>
+  <header>
+    <img src="assets/img/logo.png" alt="Bibs Band" id="logo">
+    <div id="filter-box">
+      <label>
+        <input type="radio" name="filter" value="library" checked>In Library
+      </label>
+      <label>
+        <input type="radio" name="filter" value="wishlist">Wishlist
+      </label>
+      <label>
+        <input type="radio" name="filter" value="all">Rock Band Network
+      </label>
+    </div>
+    <input type="text" id="search-bar" placeholder="Search...">
+  </header>
+  <main>
+    <table id="songs-table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Artist</th>
+          <th>Year</th>
+          <th>Genre</th>
+          <th>Pack Name</th>
+          <th>Release Date</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+</body>
+
 </html>
