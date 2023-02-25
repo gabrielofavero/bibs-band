@@ -15,7 +15,7 @@ fetch('assets/json/rock-band.json')
       const packName = document.createElement('td');
       const releaseDate = document.createElement('td');
       const price = document.createElement('td');
-
+    
       title.style.width = '20%';
       title.textContent = song['song-title'] || '-';
       artist.style.width = '20%';
@@ -28,14 +28,17 @@ fetch('assets/json/rock-band.json')
       packName.textContent = song['pack-name'] || '-';
       releaseDate.style.width = '15%';
       releaseDate.textContent = song['release-date'] || '-';
-      if (song.wishlist || song.library) {
-        price.style.width = '5%';
-        price.textContent = song.price === 0 ? 'Free' : 'R$ ' + song.price.toFixed(2).replace('.', ',');
+      price.style.width = '5%';
+      if (song.price === 0) {
+        price.textContent = 'Free';
+      } else if (song.library) {
+        price.textContent = 'In Library';
+      } else if (typeof song.price === 'string') {
+        price.textContent = song.price;
       } else {
-        price.style.width = '5%';
-        price.textContent = '-';
+        price.textContent = 'R$ ' + song.price.toFixed(2).replace('.', ',');
       }
-
+    
       row.appendChild(title);
       row.appendChild(artist);
       row.appendChild(year);
@@ -43,9 +46,10 @@ fetch('assets/json/rock-band.json')
       row.appendChild(packName);
       row.appendChild(releaseDate);
       row.appendChild(price);
-
+    
       return row;
     }
+    
 
     // Add all the songs to the table
     Object.values(data).forEach(song => {
@@ -64,7 +68,7 @@ fetch('assets/json/rock-band.json')
       const wishlistChecked = wishlistFilter.checked;
       const allChecked = allFilter.checked;
       const searchQuery = searchBar.value.trim().toLowerCase();
-
+    
       const filteredSongs = Object.values(data).filter(song => {
         if (allChecked) {
           return true;
@@ -76,17 +80,32 @@ fetch('assets/json/rock-band.json')
           return false;
         }
       }).filter(song => {
-        const titleMatch = song['song-title'].toLowerCase().includes(searchQuery);
-        const artistMatch = song.artist.toLowerCase().includes(searchQuery);
-        return titleMatch || artistMatch;
+        const title = song['song-title'].toLowerCase();
+        const artist = song.artist.toLowerCase();
+        const queryWords = searchQuery.split(/[ -]/);
+    
+        for (let i = 0; i < queryWords.length; i++) {
+          if (
+            title.includes(queryWords[i]) ||
+            artist.includes(queryWords[i]) ||
+            title.includes(queryWords[i].replace('-', ' ')) ||
+            artist.includes(queryWords[i].replace('-', ' '))
+          ) {
+            continue;
+          } else {
+            return false;
+          }
+        }
+    
+        return true;
       });
-
+    
       tableBody.innerHTML = '';
-
+    
       filteredSongs.forEach(song => {
         tableBody.appendChild(createTableRow(song));
       });
-    }
+    }    
 
     // Filter the songs based on the default filter settings
     filterSongs();

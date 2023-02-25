@@ -1,5 +1,5 @@
 body {
-  padding: 50px;
+  padding: 55px;
   font-family: 'Helvetica Neue', sans-serif;
   background-color: #1c1c1c;
   color: #fff;
@@ -73,4 +73,9 @@ input[type="radio"]:checked+label {
 
 input[type="radio"]:focus+label {
   text-decoration: underline;
+}
+
+table th {
+  background-color: #0d0e1d;
+  color: #fff;
 }
