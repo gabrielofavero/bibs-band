@@ -84,11 +84,34 @@ table th {
 }
 
 @media only screen and (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+
   header {
     flex-direction: column;
+    align-items: center;
   }
-  
+
+  #logo {
+    width: 100%;
+    max-width: 240px;
+    margin: 0;
+  }
+
   #filter-box {
     margin: 10px 0;
   }
+
+  #search-bar {
+    width: 95%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  th:nth-child(n+3),
+  td:nth-child(n+3) {
+    display: none;
+  }
 }
+
