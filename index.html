@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Bibs Band</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+    <script src="assets/js/main.js"></script>
+  </head>
+  <body>
+    <header>
+      <img src="assets/img/logo.png" alt="Bibs Band" id="logo">
+      <div id="filter-box">
+        <label>
+          <input type="radio" name="filter" value="library" checked>In Library
+        </label>
+        <label>
+          <input type="radio" name="filter" value="wishlist">Wishlist
+        </label>
+        <label>
+          <input type="radio" name="filter" value="all">Rock Band Network
+        </label>
+      </div>
+      <input type="text" id="search-bar" placeholder="Search...">
+    </header>
+    <main>
+      <table id="songs-table">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Artist</th>
+            <th>Year</th>
+            <th>Genre</th>
+            <th>Pack Name</th>
+            <th>Release Date</th>
+            <th>Price</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </main>
+  </body>
+</html>
