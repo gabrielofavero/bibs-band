@@ -248,7 +248,7 @@
         "pack-name": "Punk 01",
         "release-date": "11/12/2007",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -446,7 +446,7 @@
         "pack-name": "Single",
         "release-date": "15/01/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -1095,7 +1095,7 @@
         "pack-name": "Scene 01",
         "release-date": "06/05/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -1447,7 +1447,7 @@
         "pack-name": "Single",
         "release-date": "17/06/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -1458,7 +1458,7 @@
         "pack-name": "Single",
         "release-date": "17/06/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -1744,7 +1744,7 @@
         "pack-name": "Single",
         "release-date": "08/07/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -2481,7 +2481,7 @@
         "pack-name": "Single",
         "release-date": "23/09/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -2800,7 +2800,7 @@
         "pack-name": "The Offspring 01",
         "release-date": "07/10/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -3042,7 +3042,7 @@
         "pack-name": "Single",
         "release-date": "28/10/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -4054,7 +4054,7 @@
         "pack-name": "Foo Fighters 01",
         "release-date": "23/12/2008",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -4263,7 +4263,7 @@
         "pack-name": "Steve Miller Band 01",
         "release-date": "20/01/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -4868,7 +4868,7 @@
         "pack-name": "Single",
         "release-date": "17/03/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -5055,7 +5055,7 @@
         "pack-name": "SpongeBob SquarePants 01",
         "release-date": "31/03/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -5650,7 +5650,7 @@
         "release-date": "12/05/2009",
         "price": 4,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Ring of Fire",
@@ -5661,7 +5661,7 @@
         "release-date": "12/05/2009",
         "price": 4,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Story of My Life",
@@ -5672,7 +5672,7 @@
         "release-date": "12/05/2009",
         "price": 4,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Stricken",
@@ -5902,7 +5902,7 @@
         "pack-name": "Single",
         "release-date": "26/05/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -6199,7 +6199,7 @@
         "pack-name": "Warped Tour 2009 01",
         "release-date": "23/06/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -6639,7 +6639,7 @@
         "pack-name": "Rancid 01",
         "release-date": "21/07/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -6650,7 +6650,7 @@
         "pack-name": "Rancid 01",
         "release-date": "21/07/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -6661,7 +6661,7 @@
         "pack-name": "Rancid 01",
         "release-date": "21/07/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -6738,7 +6738,7 @@
         "pack-name": "Blink-182 01",
         "release-date": "28/07/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -6782,7 +6782,7 @@
         "pack-name": "Weezer 02",
         "release-date": "28/07/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7046,7 +7046,7 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7310,7 +7310,7 @@
         "pack-name": "Freezepop 01",
         "release-date": "08/09/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7332,7 +7332,7 @@
         "pack-name": "The PAX 2009 Collection",
         "release-date": "08/09/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7365,7 +7365,7 @@
         "pack-name": "Single",
         "release-date": "08/09/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7376,7 +7376,7 @@
         "pack-name": "Single",
         "release-date": "08/09/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7860,7 +7860,7 @@
         "pack-name": "Brütal Legend",
         "release-date": "13/10/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7893,7 +7893,7 @@
         "pack-name": "Single",
         "release-date": "13/10/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7959,7 +7959,7 @@
         "pack-name": "Queen 01",
         "release-date": "20/10/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7970,7 +7970,7 @@
         "pack-name": "Queen 01",
         "release-date": "20/10/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -7992,7 +7992,7 @@
         "pack-name": "Queen 01",
         "release-date": "20/10/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -8201,7 +8201,7 @@
         "pack-name": "Foo Fighters 03",
         "release-date": "03/11/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -8212,7 +8212,7 @@
         "pack-name": "Foo Fighters 03",
         "release-date": "03/11/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -8223,7 +8223,7 @@
         "pack-name": "Foo Fighters 03",
         "release-date": "03/11/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -8535,14 +8535,14 @@
         "library": ""
     },
     {
-        "song-title": "Come As You Are",
+        "song-title": "Come As You Are (Live from MTV Unplugged)",
         "artist": "Nirvana",
         "year": 1994,
         "genre": "Grunge",
         "pack-name": "Nirvana 02",
         "release-date": "01/12/2009",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -8916,7 +8916,7 @@
         "pack-name": "Blink-182 02",
         "release-date": "05/01/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -8927,7 +8927,7 @@
         "pack-name": "Blink-182 02",
         "release-date": "05/01/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -9444,7 +9444,7 @@
         "pack-name": "Single",
         "release-date": "16/02/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -9774,7 +9774,7 @@
         "pack-name": "Lady Gaga 01",
         "release-date": "16/03/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -10797,7 +10797,7 @@
         "pack-name": "Spoon 01",
         "release-date": "01/06/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -11017,7 +11017,7 @@
         "pack-name": "Nickelback 01",
         "release-date": "29/06/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -11028,7 +11028,7 @@
         "pack-name": "Nickelback 01",
         "release-date": "29/06/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -11116,7 +11116,7 @@
         "pack-name": "Creedence Clearwater Revival 01",
         "release-date": "06/07/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -11281,7 +11281,7 @@
         "pack-name": "The Stooges 01",
         "release-date": "20/07/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -12711,7 +12711,7 @@
         "pack-name": "Bon Jovi: Greatest Hits: Rock Band Edition",
         "release-date": "09/11/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -12755,7 +12755,7 @@
         "pack-name": "Bon Jovi: Greatest Hits: Rock Band Edition",
         "release-date": "09/11/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -12777,7 +12777,7 @@
         "pack-name": "Bon Jovi: Greatest Hits: Rock Band Edition",
         "release-date": "09/11/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -12799,7 +12799,7 @@
         "pack-name": "Bon Jovi: Greatest Hits: Rock Band Edition",
         "release-date": "09/11/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -13162,7 +13162,7 @@
         "pack-name": "Queen Extravaganza Pack 01",
         "release-date": "07/12/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -13173,7 +13173,7 @@
         "pack-name": "Queen Extravaganza Pack 01",
         "release-date": "07/12/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -13239,7 +13239,7 @@
         "pack-name": "Queen RB3 Enhanced Pack",
         "release-date": "07/12/2010",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -13745,7 +13745,7 @@
         "pack-name": "Linkin Park 01",
         "release-date": "11/01/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -13800,7 +13800,7 @@
         "pack-name": "Linkin Park 01",
         "release-date": "11/01/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -13932,7 +13932,7 @@
         "pack-name": "London Calling",
         "release-date": "01/02/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -14416,7 +14416,7 @@
         "pack-name": "Depeche Mode 01",
         "release-date": "08/03/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -14768,7 +14768,7 @@
         "pack-name": "Single",
         "release-date": "19/04/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -14823,7 +14823,7 @@
         "pack-name": "Single",
         "release-date": "26/04/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -15032,7 +15032,7 @@
         "pack-name": "Lady Gaga 02",
         "release-date": "23/05/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -15318,7 +15318,7 @@
         "pack-name": "Maroon 5 02",
         "release-date": "21/06/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -15516,7 +15516,7 @@
         "pack-name": "Single",
         "release-date": "12/07/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -15681,7 +15681,7 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -16033,7 +16033,7 @@
         "pack-name": "Celebrating Nirvana",
         "release-date": "20/09/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -16044,7 +16044,7 @@
         "pack-name": "Celebrating Nirvana",
         "release-date": "20/09/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -16176,7 +16176,7 @@
         "pack-name": "Blink-182 03",
         "release-date": "11/10/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -16198,7 +16198,7 @@
         "pack-name": "Blink-182 03",
         "release-date": "11/10/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -16220,7 +16220,7 @@
         "pack-name": "Coldplay Collection 01",
         "release-date": "18/10/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -16231,7 +16231,7 @@
         "pack-name": "Coldplay Collection 01",
         "release-date": "18/10/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -16462,7 +16462,7 @@
         "pack-name": "Going Country 06",
         "release-date": "08/11/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -16847,7 +16847,7 @@
         "pack-name": "Rush 01",
         "release-date": "13/12/2011",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17199,7 +17199,7 @@
         "pack-name": "Single",
         "release-date": "31/01/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17210,7 +17210,7 @@
         "pack-name": "Single",
         "release-date": "31/01/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17299,7 +17299,7 @@
         "release-date": "14/02/2012",
         "price": 4,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Symphony of Destruction",
@@ -17386,7 +17386,7 @@
         "pack-name": "Single",
         "release-date": "06/03/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17419,7 +17419,7 @@
         "pack-name": "Three Days Grace 01",
         "release-date": "13/03/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17430,7 +17430,7 @@
         "pack-name": "Three Days Grace 01",
         "release-date": "13/03/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17573,7 +17573,7 @@
         "pack-name": "P!nk 01",
         "release-date": "17/04/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17672,7 +17672,7 @@
         "pack-name": "Single",
         "release-date": "01/05/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17727,7 +17727,7 @@
         "pack-name": "Paramore 01",
         "release-date": "15/05/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -17991,7 +17991,7 @@
         "pack-name": "Daughtry 01",
         "release-date": "10/07/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -18024,7 +18024,7 @@
         "pack-name": "Single",
         "release-date": "17/07/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -18409,7 +18409,7 @@
         "pack-name": "Green Day 03",
         "release-date": "25/09/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -18651,7 +18651,7 @@
         "pack-name": "Green Day 04",
         "release-date": "13/11/2012",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -19465,7 +19465,7 @@
         "pack-name": "Aerosmith's Greatest Dimension",
         "release-date": "29/01/2013",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -19586,7 +19586,7 @@
         "pack-name": "Single",
         "release-date": "12/02/2013",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -20356,7 +20356,7 @@
         "pack-name": "Single",
         "release-date": "17/11/2015",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -20444,7 +20444,7 @@
         "pack-name": "Off the Charts 01",
         "release-date": "01/12/2015",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -20851,7 +20851,7 @@
         "pack-name": "Single",
         "release-date": "09/02/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -20873,7 +20873,7 @@
         "pack-name": "Single",
         "release-date": "09/02/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -21005,7 +21005,7 @@
         "pack-name": "One Direction 01",
         "release-date": "08/03/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -21016,7 +21016,7 @@
         "pack-name": "The Cranberries 01",
         "release-date": "15/03/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -21687,7 +21687,7 @@
         "pack-name": "Single",
         "release-date": "21/06/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22204,7 +22204,7 @@
         "pack-name": "Single",
         "release-date": "27/10/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22270,7 +22270,7 @@
         "pack-name": "Single",
         "release-date": "10/11/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22325,7 +22325,7 @@
         "pack-name": "Single",
         "release-date": "22/11/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22556,7 +22556,7 @@
         "pack-name": "Off the Charts 05",
         "release-date": "15/12/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22600,7 +22600,7 @@
         "pack-name": "Aerosmith Hits 03",
         "release-date": "22/12/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22633,7 +22633,7 @@
         "pack-name": "Aerosmith Hits 03",
         "release-date": "22/12/2016",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22743,7 +22743,7 @@
         "pack-name": "Solid '70s 01",
         "release-date": "19/01/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22754,7 +22754,7 @@
         "pack-name": "Solid '70s 01",
         "release-date": "19/01/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22809,7 +22809,7 @@
         "pack-name": "Lady Gaga 03",
         "release-date": "26/01/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22820,7 +22820,7 @@
         "pack-name": "Single",
         "release-date": "02/02/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -22886,7 +22886,7 @@
         "pack-name": "Single",
         "release-date": "16/02/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23095,7 +23095,7 @@
         "pack-name": "Single",
         "release-date": "23/03/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23106,7 +23106,7 @@
         "pack-name": "Single",
         "release-date": "23/03/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23282,7 +23282,7 @@
         "pack-name": "Single",
         "release-date": "25/05/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23348,7 +23348,7 @@
         "pack-name": "Single",
         "release-date": "22/06/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23557,7 +23557,7 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23590,7 +23590,7 @@
         "pack-name": "Single",
         "release-date": "07/09/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23689,7 +23689,7 @@
         "pack-name": "Single",
         "release-date": "05/10/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23975,7 +23975,7 @@
         "pack-name": "Single",
         "release-date": "21/11/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23997,7 +23997,7 @@
         "pack-name": "Single",
         "release-date": "30/11/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24008,7 +24008,7 @@
         "pack-name": "Rock the Charts 01",
         "release-date": "07/12/2017",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24162,7 +24162,7 @@
         "pack-name": "Single",
         "release-date": "04/01/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24184,7 +24184,7 @@
         "pack-name": "Single",
         "release-date": "04/01/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24536,7 +24536,7 @@
         "pack-name": "Single",
         "release-date": "05/04/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24569,7 +24569,7 @@
         "pack-name": "Single",
         "release-date": "19/04/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24690,7 +24690,7 @@
         "pack-name": "Single",
         "release-date": "17/05/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24734,7 +24734,7 @@
         "pack-name": "Single",
         "release-date": "31/05/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24954,7 +24954,7 @@
         "pack-name": "Single",
         "release-date": "26/07/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24965,7 +24965,7 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -24976,7 +24976,7 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -25427,7 +25427,7 @@
         "pack-name": "Single",
         "release-date": "20/11/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -25438,7 +25438,7 @@
         "pack-name": "Single",
         "release-date": "20/11/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -25449,7 +25449,7 @@
         "pack-name": "Single",
         "release-date": "29/11/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -25460,7 +25460,7 @@
         "pack-name": "Single",
         "release-date": "29/11/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -25526,7 +25526,7 @@
         "pack-name": "Single",
         "release-date": "20/12/2018",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -25790,7 +25790,7 @@
         "pack-name": "Bring Me the Horizon 01",
         "release-date": "07/03/2019",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -25834,7 +25834,7 @@
         "pack-name": "Single",
         "release-date": "14/03/2019",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -25966,7 +25966,7 @@
         "pack-name": "Single",
         "release-date": "18/04/2019",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -26242,7 +26242,7 @@
         "pack-name": "Single",
         "release-date": "02/07/2019",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -26385,7 +26385,7 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -26418,7 +26418,7 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -26528,7 +26528,7 @@
         "pack-name": "Single",
         "release-date": "12/09/2019",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27023,7 +27023,7 @@
         "pack-name": "Simple Plan 01",
         "release-date": "06/02/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27100,7 +27100,7 @@
         "pack-name": "Single",
         "release-date": "27/02/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27276,7 +27276,7 @@
         "pack-name": "Single",
         "release-date": "23/04/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27298,7 +27298,7 @@
         "pack-name": "Single",
         "release-date": "30/04/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27441,7 +27441,7 @@
         "pack-name": "Single",
         "release-date": "18/06/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27452,7 +27452,7 @@
         "pack-name": "Single",
         "release-date": "18/06/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27628,7 +27628,7 @@
         "pack-name": "Coldplay Parachutes to Everyday Life Pack",
         "release-date": "",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27683,7 +27683,7 @@
         "pack-name": "Single",
         "release-date": "03/09/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -27969,7 +27969,7 @@
         "pack-name": "Single",
         "release-date": "24/11/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -28035,7 +28035,7 @@
         "pack-name": "Single",
         "release-date": "17/12/2020",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -28090,7 +28090,7 @@
         "pack-name": "Single",
         "release-date": "07/01/2021",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -28200,7 +28200,7 @@
         "pack-name": "Single",
         "release-date": "04/02/2021",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -28299,7 +28299,7 @@
         "pack-name": "Single",
         "release-date": "04/03/2021",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -28365,7 +28365,7 @@
         "pack-name": "Single",
         "release-date": "25/03/2021",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -28398,7 +28398,7 @@
         "pack-name": "Single",
         "release-date": "08/04/2021",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -28453,7 +28453,7 @@
         "pack-name": "Single",
         "release-date": "22/04/2021",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29190,7 +29190,7 @@
         "pack-name": "Single",
         "release-date": "23/11/2021",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29388,7 +29388,7 @@
         "pack-name": "Single",
         "release-date": "27/01/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29509,7 +29509,7 @@
         "pack-name": "Single",
         "release-date": "03/03/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29553,7 +29553,7 @@
         "pack-name": "Single",
         "release-date": "17/03/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29575,7 +29575,7 @@
         "pack-name": "Single",
         "release-date": "24/03/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29586,7 +29586,7 @@
         "pack-name": "Single",
         "release-date": "31/03/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29751,7 +29751,7 @@
         "pack-name": "Single",
         "release-date": "19/05/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29762,7 +29762,7 @@
         "pack-name": "Single",
         "release-date": "26/05/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29938,7 +29938,7 @@
         "pack-name": "Single",
         "release-date": "14/07/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -29949,7 +29949,7 @@
         "pack-name": "Single",
         "release-date": "21/07/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -30081,7 +30081,7 @@
         "pack-name": "Muse 01",
         "release-date": "01/09/2022",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -30609,7 +30609,7 @@
         "pack-name": "Riffing In The New Year 2023",
         "release-date": "05/01/2023",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -30719,7 +30719,7 @@
         "pack-name": "Single",
         "release-date": "02/02/2023",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -30752,7 +30752,7 @@
         "pack-name": "Single",
         "release-date": "16/02/2023",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -30763,7 +30763,7 @@
         "pack-name": "Single",
         "release-date": "16/02/2023",
         "price": 7.45,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {

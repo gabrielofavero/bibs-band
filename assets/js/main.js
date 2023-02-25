@@ -82,15 +82,11 @@ fetch('assets/json/rock-band.json')
       }).filter(song => {
         const title = song['song-title'].toLowerCase();
         const artist = song.artist.toLowerCase();
-        const queryWords = searchQuery.split(/[ -]/);
+        const queryWords = searchQuery.replace(/[^\w\s]/g, ' ').split(/\s+/);
     
+        // Check if any of the query words are included in the song title or artist
         for (let i = 0; i < queryWords.length; i++) {
-          if (
-            title.includes(queryWords[i]) ||
-            artist.includes(queryWords[i]) ||
-            title.includes(queryWords[i].replace('-', ' ')) ||
-            artist.includes(queryWords[i].replace('-', ' '))
-          ) {
+          if (title.includes(queryWords[i]) || artist.includes(queryWords[i])) {
             continue;
           } else {
             return false;
@@ -105,8 +101,8 @@ fetch('assets/json/rock-band.json')
       filteredSongs.forEach(song => {
         tableBody.appendChild(createTableRow(song));
       });
-    }    
-
+    }
+    
     // Filter the songs based on the default filter settings
     filterSongs();
 
