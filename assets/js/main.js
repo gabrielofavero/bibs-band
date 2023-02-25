@@ -22,17 +22,17 @@ fetch('assets/json/rock-band.json')
       artist.textContent = song.artist || '-';
       year.style.width = '10%';
       year.textContent = song.year || '-';
-      genre.style.width = '15%';
+      genre.style.width = '10%';
       genre.textContent = song.genre || '-';
-      packName.style.width = '15%';
+      packName.style.width = '20%';
       packName.textContent = song['pack-name'] || '-';
-      releaseDate.style.width = '15%';
+      releaseDate.style.width = '10%';
       releaseDate.textContent = song['release-date'] || '-';
-      price.style.width = '5%';
-      if (song.price === 0) {
-        price.textContent = 'Free';
-      } else if (song.library) {
+      price.style.width = '10%';
+      if (song.library) {
         price.textContent = 'In Library';
+      } else if (song.price === 0) {
+        price.textContent = 'Free';
       } else if (typeof song.price === 'string') {
         price.textContent = song.price;
       } else {

@@ -1,5 +1,8 @@
 body {
-  padding: 55px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 90px;
+  padding-right: 90px;
   font-family: 'Helvetica Neue', sans-serif;
   background-color: #1c1c1c;
   color: #fff;
