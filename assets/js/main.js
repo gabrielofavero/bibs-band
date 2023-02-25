@@ -16,13 +16,25 @@ fetch('assets/json/rock-band.json')
       const releaseDate = document.createElement('td');
       const price = document.createElement('td');
 
-      title.textContent = song['song-title'];
-      artist.textContent = song.artist;
-      year.textContent = song.year;
-      genre.textContent = song.genre;
-      packName.textContent = song['pack-name'];
-      releaseDate.textContent = song['release-date'];
-      price.textContent = song.price;
+      title.style.width = '20%';
+      title.textContent = song['song-title'] || '-';
+      artist.style.width = '20%';
+      artist.textContent = song.artist || '-';
+      year.style.width = '10%';
+      year.textContent = song.year || '-';
+      genre.style.width = '15%';
+      genre.textContent = song.genre || '-';
+      packName.style.width = '15%';
+      packName.textContent = song['pack-name'] || '-';
+      releaseDate.style.width = '15%';
+      releaseDate.textContent = song['release-date'] || '-';
+      if (song.wishlist || song.library) {
+        price.style.width = '5%';
+        price.textContent = song.price === 0 ? 'Free' : 'R$ ' + song.price.toFixed(2).replace('.', ',');
+      } else {
+        price.style.width = '5%';
+        price.textContent = '-';
+      }
 
       row.appendChild(title);
       row.appendChild(artist);
