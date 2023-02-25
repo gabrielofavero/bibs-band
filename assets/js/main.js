@@ -55,8 +55,8 @@ fetch('assets/json/rock-band.json')
       const libraryChecked = libraryFilter.checked;
       const wishlistChecked = wishlistFilter.checked;
       const allChecked = allFilter.checked;
-      const searchQuery = searchBar.value.trim().toLowerCase();
-
+      const searchQuery = searchBar.value.trim().toLowerCase().replace(/[^\w\s]/g, '');
+    
       const filteredSongs = Object.values(data).filter(song => {
         if (allChecked) {
           return true;
@@ -68,28 +68,32 @@ fetch('assets/json/rock-band.json')
           return false;
         }
       }).filter(song => {
-        const title = song['song-title'].toLowerCase();
-        const artist = song.artist.toLowerCase();
-        const queryWords = searchQuery.replace(/[^\w\s]/g, ' ').split(/\s+/);
-
-        // Check if any of the query words are included in the song title or artist
+        const title = song['song-title'].toLowerCase().replace(/[^\w\s]/g, '');
+        const artist = song.artist.toLowerCase().replace(/[^\w\s]/g, '');
+        const genre = song.genre.toLowerCase().replace(/[^\w\s]/g, '');
+        const packName = song['pack-name'].toLowerCase().replace(/[^\w\s]/g, '');
+        const releaseDate = song['release-date'].toLowerCase().replace(/[^\w\s]/g, '');
+        const queryWords = searchQuery.split(/\s+/);
+    
+        // Check if any of the query words are included in the song title, artist, genre, pack name, or release date
         for (let i = 0; i < queryWords.length; i++) {
-          if (title.includes(queryWords[i]) || artist.includes(queryWords[i])) {
+          if (title.includes(queryWords[i]) || artist.includes(queryWords[i]) || genre.includes(queryWords[i]) || packName.includes(queryWords[i]) || releaseDate.includes(queryWords[i])) {
             continue;
           } else {
             return false;
           }
         }
-
+    
         return true;
       });
-
+    
       tableBody.innerHTML = '';
-
+    
       filteredSongs.forEach(song => {
         tableBody.appendChild(createTableRow(song));
       });
     }
+    
 
     // Add all the songs to the table
     function addAllSongs() {
