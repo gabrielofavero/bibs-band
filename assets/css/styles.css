@@ -83,7 +83,7 @@ table th {
   color: #fff;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1540px) {
   body {
     padding: 20px;
   }
@@ -108,7 +108,9 @@ table th {
     margin-top: 20px;
     margin-bottom: 20px;
   }
+}
 
+@media only screen and (max-width: 970px) {
   th:nth-child(n+3),
   td:nth-child(n+3) {
     display: none;

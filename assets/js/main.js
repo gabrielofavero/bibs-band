@@ -24,11 +24,11 @@ fetch('assets/json/rock-band.json')
       year.textContent = song.year || '-';
       genre.style.width = '15%';
       genre.textContent = song.genre || '-';
-      packName.style.width = '15%';
+      packName.style.width = '8%';
       packName.textContent = song['pack-name'] || '-';
-      releaseDate.style.width = '15%';
+      releaseDate.style.width = '10%';
       releaseDate.textContent = song['release-date'] || '-';
-      price.style.width = '5%';
+      price.style.width = '17%';
       if (song.library) {
         price.textContent = 'In Library';
       } else if (song.price === 0) {
@@ -120,28 +120,31 @@ fetch('assets/json/rock-band.json')
     // Make the table responsive on mobile devices
     function makeTableResponsive() {
       const viewportWidth = window.innerWidth;
-      const isMobile = viewportWidth < 769;
+      const isMobile = viewportWidth < 971;
+      const isSemiMobile = viewportWidth < 1541;
 
-      if (isMobile) {
+      if (isMobile || isSemiMobile) {
         // Reduce body padding
         document.body.style.padding = '10px';
 
-        // Hide the columns for Year, Genre, Pack Name, and Release Date
-        const thList = document.querySelectorAll('th');
-        thList[2].style.display = 'none'; // Year
-        thList[3].style.display = 'none'; // Genre
-        thList[4].style.display = 'none'; // Pack Name
-        thList[5].style.display = 'none'; // Release Date
-      } else {
-        // Reset body padding
-        document.body.style.padding = '50px 90px';
-
-        // Show all table columns
-        const thList = document.querySelectorAll('th');
-        thList[2].style.display = 'table-cell'; // Year
-        thList[3].style.display = 'table-cell'; // Genre
-        thList[4].style.display = 'table-cell'; // Pack Name
-        thList[5].style.display = 'table-cell'; // Release Date
+        if (isMobile){
+          // Hide the columns for Year, Genre, Pack Name, and Release Date
+          const thList = document.querySelectorAll('th');
+          thList[2].style.display = 'none'; // Year
+          thList[3].style.display = 'none'; // Genre
+          thList[4].style.display = 'none'; // Pack Name
+          thList[5].style.display = 'none'; // Release Date
+        } else {
+          // Reset body padding
+          document.body.style.padding = '50px 90px';
+  
+          // Show all table columns
+          const thList = document.querySelectorAll('th');
+          thList[2].style.display = 'table-cell'; // Year
+          thList[3].style.display = 'table-cell'; // Genre
+          thList[4].style.display = 'table-cell'; // Pack Name
+          thList[5].style.display = 'table-cell'; // Release Date
+        }
       }
     }
 
