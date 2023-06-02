@@ -1,4 +1,5 @@
-[{
+[
+    {
         "song-title": "Fortunate Son",
         "artist": "Creedence Clearwater Revival",
         "year": 1969,
@@ -446,8 +447,8 @@
         "pack-name": "Single",
         "release-date": "15/01/2008",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Don't Look Back in Anger",
@@ -8916,8 +8917,8 @@
         "pack-name": "Blink-182 02",
         "release-date": "05/01/2010",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "First Date",
@@ -9444,8 +9445,8 @@
         "pack-name": "Single",
         "release-date": "16/02/2010",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Fascination",
@@ -12723,7 +12724,7 @@
         "release-date": "09/11/2010",
         "price": 4,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "It's My Life",
@@ -14768,8 +14769,8 @@
         "pack-name": "Single",
         "release-date": "19/04/2011",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "867-5309/Jenny",
@@ -17672,8 +17673,8 @@
         "pack-name": "Single",
         "release-date": "01/05/2012",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Bombtrack",
@@ -18024,8 +18025,8 @@
         "pack-name": "Single",
         "release-date": "17/07/2012",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Not Again",
@@ -18409,8 +18410,8 @@
         "pack-name": "Green Day 03",
         "release-date": "25/09/2012",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Down",
@@ -21446,7 +21447,7 @@
         "release-date": "11/04/2016",
         "price": 4,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Stressed Out",
@@ -21830,7 +21831,7 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 4,
-        "wishlist": "",
+        "wishlist": true,
         "library": ""
     },
     {
@@ -23557,8 +23558,8 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Postpone",
@@ -24536,8 +24537,8 @@
         "pack-name": "Single",
         "release-date": "05/04/2018",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Torn in Two",
@@ -24965,8 +24966,8 @@
         "pack-name": "Single",
         "release-date": "",
         "price": 4,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Youngblood",
@@ -26178,7 +26179,6 @@
         "wishlist": "",
         "library": ""
     },
-    
     {
         "song-title": "If I'm James Dean, You're Audrey Hepburn",
         "artist": "Sleeping With Sirens",
@@ -26826,7 +26826,7 @@
         "release-date": "05/12/2019",
         "price": 7.45,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Panic Attack",
@@ -27013,7 +27013,7 @@
         "release-date": "06/02/2020",
         "price": 7.45,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Welcome to My Life",
@@ -27023,8 +27023,8 @@
         "pack-name": "Simple Plan 01",
         "release-date": "06/02/2020",
         "price": 7.45,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Where I Belong",
@@ -27035,7 +27035,7 @@
         "release-date": "06/02/2020",
         "price": 7.45,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "No More Mr. Nice Guy",
@@ -27683,7 +27683,7 @@
         "pack-name": "Single",
         "release-date": "03/09/2020",
         "price": 7.45,
-        "wishlist": true,
+        "wishlist": "",
         "library": ""
     },
     {
@@ -27948,7 +27948,7 @@
         "release-date": "19/11/2020",
         "price": 7.45,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Cute Without The 'E' (Cut From the Team)",
@@ -27969,7 +27969,7 @@
         "pack-name": "Single",
         "release-date": "24/11/2020",
         "price": 7.45,
-        "wishlist": true,
+        "wishlist": "",
         "library": ""
     },
     {
@@ -28905,7 +28905,7 @@
         "release-date": "02/09/2021",
         "price": 7.45,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Here's to the Night",
@@ -28927,7 +28927,7 @@
         "release-date": "09/09/2021",
         "price": 7.45,
         "wishlist": "",
-        "library": ""
+        "library": true
     },
     {
         "song-title": "Drunk (And I Don't Wanna Go Home)",
@@ -29938,8 +29938,8 @@
         "pack-name": "Single",
         "release-date": "14/07/2022",
         "price": 7.45,
-        "wishlist": true,
-        "library": ""
+        "wishlist": "",
+        "library": true
     },
     {
         "song-title": "Wild Child",
@@ -29949,7 +29949,7 @@
         "pack-name": "Single",
         "release-date": "21/07/2022",
         "price": 7.45,
-        "wishlist": true,
+        "wishlist": "",
         "library": ""
     },
     {
@@ -30081,7 +30081,7 @@
         "pack-name": "Muse 01",
         "release-date": "01/09/2022",
         "price": 7.45,
-        "wishlist": true,
+        "wishlist": "",
         "library": ""
     },
     {
@@ -30787,7 +30787,8 @@
         "price": 7.45,
         "wishlist": "",
         "library": ""
-    }, {
+    },
+    {
         "song-title": "20th Century Boy",
         "artist": "T. Rex",
         "year": 1973,
@@ -31699,7 +31700,8 @@
         "price": "Export",
         "wishlist": "",
         "library": true
-    }, {
+    },
+    {
         "song-title": "Ain't Messin 'Round",
         "artist": "Gary Clark, Jr.",
         "year": 2012,
@@ -32413,6 +32415,324 @@
         "price": "Main Game",
         "wishlist": "",
         "library": true
+    },
+    {
+        "song-title": "Worst Day",
+        "artist": "ILLENIUM & Max",
+        "year": 2022,
+        "genre": "Pop/Dance/Electronic",
+        "pack-name": "Single",
+        "release-date": "23/02/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Bad Idea",
+        "artist": "GUNNAR",
+        "year": 2023,
+        "genre": "Rock",
+        "pack-name": "Single",
+        "release-date": "02/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "A Little Bit Better",
+        "artist": "Ni/Co",
+        "year": 2023,
+        "genre": "Pop-Rock",
+        "pack-name": "Single",
+        "release-date": "02/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Here & Now",
+        "artist": "Letters to Cleo",
+        "year": 1993,
+        "genre": "Alternative",
+        "pack-name": "Single",
+        "release-date": "09/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "I'll Be There for You (Theme from Friends)",
+        "artist": "The Rembrandts",
+        "year": 1995,
+        "genre": "Pop-Rock",
+        "pack-name": "Single",
+        "release-date": "09/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "High Society",
+        "artist": "My Kid Brother",
+        "year": 2022,
+        "genre": "Alternative",
+        "pack-name": "Single",
+        "release-date": "16/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Take on Me",
+        "artist": "Reel Big Fish",
+        "year": 1998,
+        "genre": "Reggae/Ska",
+        "pack-name": "Single",
+        "release-date": "16/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Let Me Out",
+        "artist": "The Blue Stones",
+        "year": 2022,
+        "genre": "Rock",
+        "pack-name": "Single",
+        "release-date": "23/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Love From the Other Side",
+        "artist": "Fall Out Boy",
+        "year": 2023,
+        "genre": "Pop-Rock",
+        "pack-name": "Single",
+        "release-date": "23/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": true
+    },
+    {
+        "song-title": "Misery Business",
+        "artist": "Paramore",
+        "year": 2007,
+        "genre": "Pop-Rock",
+        "pack-name": "Single",
+        "release-date": "30/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "This Is Why",
+        "artist": "Paramore",
+        "year": 2023,
+        "genre": "Pop-Rock",
+        "pack-name": "Single",
+        "release-date": "30/03/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": true
+    },
+    {
+        "song-title": "L.E.S.",
+        "artist": "The Revel",
+        "year": 2023,
+        "genre": "Indie Rock",
+        "pack-name": "Single",
+        "release-date": "06/04/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "The Gang's All Here",
+        "artist": "Skid Row",
+        "year": 2022,
+        "genre": "Glam",
+        "pack-name": "Single",
+        "release-date": "06/04/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "More the Victim",
+        "artist": "Linkin Park",
+        "year": 2023,
+        "genre": "Nu-Metal",
+        "pack-name": "Single",
+        "release-date": "13/04/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Down to the Devil",
+        "artist": "Naked Gypsy Queens",
+        "year": 2022,
+        "genre": "Southern Rock",
+        "pack-name": "Single",
+        "release-date": "13/04/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Space Oddity",
+        "artist": "David Bowie",
+        "year": 1969,
+        "genre": "Glam",
+        "pack-name": "Single",
+        "release-date": "20/04/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Until I Found You",
+        "artist": "Stephen Sanchez",
+        "year": 2021,
+        "genre": "Pop-Rock",
+        "pack-name": "Single",
+        "release-date": "20/04/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Mountain Sound",
+        "artist": "Of Monsters and Men",
+        "year": 2011,
+        "genre": "Indie Rock",
+        "pack-name": "Single",
+        "release-date": "27/04/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": true
+    },
+    {
+        "song-title": "PANIC",
+        "artist": "YONAKA",
+        "year": 2023,
+        "genre": "Alternative",
+        "pack-name": "Single",
+        "release-date": "27/04/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Dial Tone",
+        "artist": "Catch Your Breath",
+        "year": 2022,
+        "genre": "Metal",
+        "pack-name": "Single",
+        "release-date": "04/05/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Peace That Starts the War",
+        "artist": "Wolves At The Gate",
+        "year": 2022,
+        "genre": "Metal",
+        "pack-name": "Single",
+        "release-date": "04/05/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Mary on a Cross",
+        "artist": "Ghost",
+        "year": 2019,
+        "genre": "Metal",
+        "pack-name": "Single",
+        "release-date": "11/05/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Ultraviolet",
+        "artist": "Spell",
+        "year": 2022,
+        "genre": "Metal",
+        "pack-name": "Single",
+        "release-date": "11/05/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Song 2",
+        "artist": "Blur",
+        "year": 1997,
+        "genre": "Alternative",
+        "pack-name": "Single",
+        "release-date": "18/05/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Back to Better",
+        "artist": "The Bouncing Souls",
+        "year": 2023,
+        "genre": "Punk",
+        "pack-name": "Single",
+        "release-date": "18/05/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "lovespell",
+        "artist": "covet",
+        "year": 2023,
+        "genre": "Prog",
+        "pack-name": "Single",
+        "release-date": "25/05/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Oh!",
+        "artist": "The Linda Lindas",
+        "year": 2022,
+        "genre": "Punk",
+        "pack-name": "Single",
+        "release-date": "25/05/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Nobody",
+        "artist": "Avenged Sevenfold",
+        "year": 2023,
+        "genre": "Metal",
+        "pack-name": "Single",
+        "release-date": "01/06/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
+    },
+    {
+        "song-title": "Voices In My Head",
+        "artist": "Falling In Reverse",
+        "year": 2022,
+        "genre": "Rock",
+        "pack-name": "Single",
+        "release-date": "01/06/2023",
+        "price": 7.45,
+        "wishlist": "",
+        "library": ""
     }
-
 ]
