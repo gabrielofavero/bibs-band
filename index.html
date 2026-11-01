@@ -33,12 +33,18 @@
     <img src="assets/img/logo.png" alt="Bibs Band" id="logo">
     <input type="text" id="search-bar" placeholder="Search...">
   </header>
+  <nav id="game-filters" aria-label="Filter by game">
+    <button type="button" class="game-filter is-active" data-game="all">All Games</button>
+    <button type="button" class="game-filter" data-game="Rock Band 4">Rock Band 4</button>
+    <button type="button" class="game-filter" data-game="Fortnite Festival">Fortnite Festival</button>
+  </nav>
   <main>
     <table id="songs-table">
       <thead>
         <tr>
           <th>Title</th>
           <th>Artist</th>
+          <th>Game</th>
         </tr>
       </thead>
       <tbody></tbody>
