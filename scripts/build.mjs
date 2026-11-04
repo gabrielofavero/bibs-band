@@ -34,7 +34,7 @@ const title = `${site.siteName} · Music Library`.replace(/&/g, '&amp;').replace
 const html = (await readFile(join(dist, 'index.html'), 'utf8'))
   .replace(/<title>[^<]*<\/title>/, `<title>${title}</title>`)
   .replace(/<meta name="theme-color" content="[^"]*"\s*\/>/, `<meta name="theme-color" content="${site.branding.backgroundColor}" />`)
-  .replace(/<!-- The favicon is attached in main\.tsx; see the note there for why\. -->/, '<link rel="icon" href="./favicon.ico" />')
+  .replace(/<!-- The publishing build may replace this title and add its own icon\. -->/, '<link rel="icon" href="./favicon.ico" />')
 await writeFile(join(dist, 'index.html'), html)
 await writeFile(join(dist, 'site.webmanifest'), JSON.stringify({
   name: site.siteName,

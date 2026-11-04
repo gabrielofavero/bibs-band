@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "siteName": "Bibs Band",
   "branding": {
-    "accentColor": "#ff7a59",
-    "backgroundColor": "#12111a",
+    "accentColor": "#45d8fe",
+    "backgroundColor": "#090a0b",
     "logoUrl": "./assets/img/logo.png"
   },
   "catalogFiles": [
@@ -11,8 +11,13 @@
     "./assets/json/fortnite-festival.json",
     "./assets/json/yarg.json"
   ],
-  "coverHosts": ["cdn2.unrealengine.com"],
+  "coverHosts": ["cdn-images.dzcdn.net", "is1-ssl.mzstatic.com", "cdn2.unrealengine.com"],
+  "coverFallbacks": {
+    "Rock Band 4": "./assets/img/cover-rb4.jpg",
+    "Fortnite Festival": "./assets/img/cover-fn-festival.jpg",
+    "YARG": "./assets/img/cover-yarg.jpg"
+  },
   "legalNotice": "Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.",
-  "backend": { "mode": "disabled", "baseUrl": null },
+  "backend": { "mode": "same-origin", "baseUrl": null },
   "modeLabels": { "setlist": "Setlist", "download": "Download", "offline": "Offline" }
 }

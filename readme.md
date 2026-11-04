@@ -37,34 +37,24 @@ In the repository's **Settings → Pages**, select **GitHub Actions** as the
 build/deployment source. The workflow needs the core submodule revision to be
 available from its configured GitHub URL.
 
-The default `site.config.json` has `backend.mode: "disabled"`, so Pages always
-works as an Offline catalog. To enable live Setlist and Download, set
-`backend.mode` to `"url"` and `backend.baseUrl` to the host's public HTTPS base
-URL; configure that host's `HUB_ALLOWED_ORIGINS` with the exact Pages origin
-(for this repository, `https://gabrielofavero.github.io`). A URL alone cannot
-make a private LAN host reachable from a phone. See
-[`host configuration`](game-setlist-hub/docs/CONFIGURATION.md) for the tunnel or
-reverse-proxy setup, pairing, and capability behavior. For a local site served
-by the host, use `"same-origin"` with a null base URL instead.
+The site opens the Bibs catalog in offline mode when it cannot reach YARG.
+A GitHub Pages copy of these files cannot reach a same-origin Node host, so it
+stays in offline mode. Serving the build through the host as described below
+enables the live YASS view when YARG's Setlist Bridge is connected. Catalog
+cover URLs and the three local game covers remain available in both modes.
 
 ## Test Bibs Band with local YARG
 
 Run these commands in **PowerShell on the computer running YARG**. Complete the
-checkout and dependency install under **Build and publish** once first. Keep the
-checked-in `site.config.json` disabled for Pages; make an ignored local copy
-that connects to the host serving the page:
+checkout and dependency install under **Build and publish** once first. The
+checked-in configuration already uses the host at the same origin:
 
 ```powershell
 # Terminal 1, from the bibs-band repository root
-node -e "const fs=require('node:fs'); const c=JSON.parse(fs.readFileSync('site.config.json','utf8')); c.backend.mode='same-origin'; c.backend.baseUrl=null; fs.writeFileSync('site.config.local',JSON.stringify(c,null,2))"
-$env:HUB_SITE_CONFIG = (Resolve-Path .\site.config.local).Path
 npm run build
-Remove-Item Env:HUB_SITE_CONFIG
 ```
 
-`site.config.local` is ignored by Git. The resulting `dist/` is the Bibs
-catalog with the live backend enabled. Start the host in another PowerShell
-terminal:
+Start the host in another PowerShell terminal:
 
 ```powershell
 # Terminal 2, from the bibs-band repository root
@@ -83,9 +73,9 @@ startup log should report a found song cache and a nonzero song count; check
 If the default YARG data location is wrong, set `HUB_YARG_DATA_DIR` to the
 existing channel directory containing `songcache.bin` **before** `npm start`.
 
-Browsing live songs needs only the cache. Setlist editing also needs BepInEx 5
-and the [YARG Setlist Bridge](https://github.com/d4g/YARG-Setlist-Bridge#install)
-running in an editable YARG scene. To try an install, set
+Browsing now requires BepInEx 5 and the
+[YARG Setlist Bridge](https://github.com/d4g/YARG-Setlist-Bridge#install)
+connected to YARG. Editing also needs an editable YARG scene. To try an install, set
 `HUB_YARG_SONGS_DIR` before `npm start` to an existing custom-songs directory
 that YARG scans. Create a pairing code from Download mode on the host computer,
 pair the browser, then install. After the job says refresh pending, use YARG's

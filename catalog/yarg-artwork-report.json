@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-11-04",
+  "counts": {
+    "existing": 0,
+    "sharedAlbum": 308,
+    "sharedSong": 290,
+    "deezerAlbum": 864,
+    "deezerSong": 43,
+    "unresolved": 272
+  }
+}
