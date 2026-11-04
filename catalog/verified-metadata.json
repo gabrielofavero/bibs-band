@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    { "catalog": "fortnite-festival.json", "row": 4, "title": "Apple", "artist": "Charli xcx", "fields": { "year": 2024, "lengthSeconds": 152 }, "source": "Epic Games Fortnite Item Shop", "sourceUrl": "https://www.fortnite.com/item-shop/jam-tracks/apple-4d93f5fba556", "retrievedOn": "2026-11-04" },
+    { "catalog": "fortnite-festival.json", "row": 24, "title": "Firework", "artist": "Katy Perry", "fields": { "year": 2010, "lengthSeconds": 219 }, "source": "Epic Games Fortnite Item Shop", "sourceUrl": "https://www.fortnite.com/item-shop/jam-tracks/firework-48af823080dc", "retrievedOn": "2026-11-04" },
+    { "catalog": "fortnite-festival.json", "row": 30, "title": "High Hopes", "artist": "Panic! At The Disco", "fields": { "year": 2018, "lengthSeconds": 194 }, "source": "Epic Games Fortnite Item Shop", "sourceUrl": "https://www.fortnite.com/item-shop/jam-tracks/high-hopes-d8c7fd70ff47", "retrievedOn": "2026-11-04" },
+    { "catalog": "fortnite-festival.json", "row": 36, "title": "Juno", "artist": "Sabrina Carpenter", "fields": { "year": 2024, "lengthSeconds": 225 }, "source": "Epic Games Fortnite Item Shop", "sourceUrl": "https://www.fortnite.com/item-shop/jam-tracks/juno-ea658ece564d", "retrievedOn": "2026-11-04" },
+    { "catalog": "fortnite-festival.json", "row": 46, "title": "Nonsense", "artist": "Sabrina Carpenter", "fields": { "year": 2022, "lengthSeconds": 169 }, "source": "Epic Games Fortnite Item Shop", "sourceUrl": "https://www.fortnite.com/item-shop/jam-tracks/nonsense-ba45dd952599", "retrievedOn": "2026-11-04" },
+    { "catalog": "fortnite-festival.json", "row": 53, "title": "Rocket Man", "artist": "Elton John", "fields": { "year": 1972, "lengthSeconds": 289 }, "source": "Epic Games Fortnite Item Shop", "sourceUrl": "https://www.fortnite.com/item-shop/jam-tracks/rocket-man-63804cc423a0", "retrievedOn": "2026-11-04" },
+    { "catalog": "fortnite-festival.json", "row": 64, "title": "The Emptiness Machine", "artist": "Linkin Park", "fields": { "year": 2024, "lengthSeconds": 195 }, "source": "Epic Games Fortnite Item Shop", "sourceUrl": "https://www.fortnite.com/item-shop/jam-tracks/the-emptiness-machine-15e4d0305eb6", "retrievedOn": "2026-11-04" }
+  ]
+}

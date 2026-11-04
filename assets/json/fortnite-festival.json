@@ -49,7 +49,9 @@
       "vocals": 2,
       "band": null
     },
-    "cover": "https://cdn2.unrealengine.com/tg9ervxpjbz6zww6-512x512-16b50aeec442.jpg"
+    "cover": "https://cdn2.unrealengine.com/tg9ervxpjbz6zww6-512x512-16b50aeec442.jpg",
+    "year": 2024,
+    "lengthSeconds": 152
   },
   {
     "song-title": "APT.",
@@ -303,7 +305,9 @@
       "vocals": 2,
       "band": null
     },
-    "cover": "https://cdn2.unrealengine.com/aiyaomdhfpbz91ac-512x512-69671635c336.jpg"
+    "cover": "https://cdn2.unrealengine.com/aiyaomdhfpbz91ac-512x512-69671635c336.jpg",
+    "year": 2010,
+    "lengthSeconds": 219
   },
   {
     "song-title": "FUTW (Vixi Solo Version)",
@@ -381,7 +385,9 @@
       "vocals": 4,
       "band": null
     },
-    "cover": "https://cdn2.unrealengine.com/rlkwybn37qfptc6m-512x512-cd3126b65669.jpg"
+    "cover": "https://cdn2.unrealengine.com/rlkwybn37qfptc6m-512x512-cd3126b65669.jpg",
+    "year": 2018,
+    "lengthSeconds": 194
   },
   {
     "song-title": "HOT TO GO!",
@@ -459,7 +465,9 @@
       "vocals": 3,
       "band": null
     },
-    "cover": "https://cdn2.unrealengine.com/3xj5vctmm2sd4kfo-512x512-048638708f5d.jpg"
+    "cover": "https://cdn2.unrealengine.com/3xj5vctmm2sd4kfo-512x512-048638708f5d.jpg",
+    "year": 2024,
+    "lengthSeconds": 225
   },
   {
     "song-title": "Leave The Door Open",
@@ -589,7 +597,9 @@
       "vocals": 3,
       "band": null
     },
-    "cover": "https://cdn2.unrealengine.com/5vinwwywjlqtm6zq-512x512-d12ea8c7fda1.jpg"
+    "cover": "https://cdn2.unrealengine.com/5vinwwywjlqtm6zq-512x512-d12ea8c7fda1.jpg",
+    "year": 2022,
+    "lengthSeconds": 169
   },
   {
     "song-title": "On Melancholy Hill",
@@ -680,7 +690,9 @@
       "vocals": 2,
       "band": null
     },
-    "cover": "https://cdn2.unrealengine.com/739pjvjqp6snp086-512x512-a960ad129a71.jpg"
+    "cover": "https://cdn2.unrealengine.com/739pjvjqp6snp086-512x512-a960ad129a71.jpg",
+    "year": 1972,
+    "lengthSeconds": 289
   },
   {
     "song-title": "Run It Up",
@@ -823,7 +835,9 @@
       "vocals": 2,
       "band": null
     },
-    "cover": "https://cdn2.unrealengine.com/moxrcr02ii3nzczy-512x512-84b0a9c933fa.jpg"
+    "cover": "https://cdn2.unrealengine.com/moxrcr02ii3nzczy-512x512-84b0a9c933fa.jpg",
+    "year": 2024,
+    "lengthSeconds": 195
   },
   {
     "song-title": "The Giver",

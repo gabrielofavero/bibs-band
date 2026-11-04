@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-11-04",
+  "sourceCoverHosts": {
+    "cdn-images.dzcdn.net": 844,
+    "is1-ssl.mzstatic.com": 8,
+    "cdn2.unrealengine.com": 72
+  },
+  "publishedRemoteHost": "cdn2.unrealengine.com",
+  "publishedRemoteCoversChecked": 72,
+  "publishedRemoteCoversAvailable": 72,
+  "remoteCoversReplacedByPlaceholders": 852,
+  "check": "HTTPS HEAD returned an image content type for every published remote cover; availability can change later."
+}

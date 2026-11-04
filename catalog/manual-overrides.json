@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "catalog": "rock-band.json",
+      "row": 49,
+      "title": "Supersonic",
+      "artist": "Oasis",
+      "sourceId": null,
+      "reason": "The YARG candidate is explicitly a live recording; the Rock Band 4 row has no live version cue.",
+      "reviewedOn": "2026-11-04"
+    }
+  ]
+}

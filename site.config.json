@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "siteName": "Bibs Band",
+  "branding": {
+    "accentColor": "#ff7a59",
+    "backgroundColor": "#12111a",
+    "logoUrl": "./assets/img/logo.png"
+  },
+  "catalogFiles": [
+    "./assets/json/rock-band.json",
+    "./assets/json/fortnite-festival.json",
+    "./assets/json/yarg.json"
+  ],
+  "coverHosts": ["cdn2.unrealengine.com"],
+  "legalNotice": "Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.",
+  "backend": { "mode": "disabled", "baseUrl": null },
+  "modeLabels": { "setlist": "Setlist", "download": "Download", "offline": "Offline" }
+}

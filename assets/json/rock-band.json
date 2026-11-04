@@ -3065,7 +3065,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dd6af81a0d098fdd32e824fd43f2635d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dd6af81a0d098fdd32e824fd43f2635d/1000x1000-000000-80-0-0.jpg",
+    "album": "That's the Spirit",
+    "year": 2015,
+    "genre": "numetal",
+    "lengthSeconds": 197
   },
   {
     "song-title": "September",
@@ -3078,7 +3082,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/18f41ecd3781fb96bffa2b0b49955db5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/18f41ecd3781fb96bffa2b0b49955db5/1000x1000-000000-80-0-0.jpg",
+    "album": "The Best of Earth, Wind & Fire, Vol. 1",
+    "year": 1978,
+    "genre": "rbsoulfunk",
+    "lengthSeconds": 223
   },
   {
     "song-title": "Rebellion (ft. Daron Malakian)",
@@ -3104,7 +3112,11 @@
       "vocals": 6,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/52aebf6c20346247c0de2238cf2067e3/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/52aebf6c20346247c0de2238cf2067e3/1000x1000-000000-80-0-0.jpg",
+    "album": "Sound & Color",
+    "year": 2015,
+    "genre": "southernrock",
+    "lengthSeconds": 234
   },
   {
     "song-title": "Like a Stone",
@@ -3117,7 +3129,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/66997a3babcd76fced42425e063a0b55/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/66997a3babcd76fced42425e063a0b55/1000x1000-000000-80-0-0.jpg",
+    "album": "Audioslave",
+    "year": 2002,
+    "genre": "rock",
+    "lengthSeconds": 295
   },
   {
     "song-title": "Lying from You",
@@ -3143,7 +3159,11 @@
       "vocals": 6,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b1d763da698c38bde6a526c8220ca0ea/1000x1000-000000-80-0-0.jpg",
+    "album": "X",
+    "year": 2014,
+    "genre": "poprock",
+    "lengthSeconds": 240
   },
   {
     "song-title": "Young Blood",
@@ -3169,7 +3189,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/1000x1000-000000-80-0-0.jpg",
+    "album": "God Loves You When You're Dancing",
+    "year": 2013,
+    "genre": "indierock",
+    "lengthSeconds": 205
   },
   {
     "song-title": "Cocoon",
@@ -3182,7 +3206,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a7f814b2e6791c58775e36a4c3a8fd5b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a7f814b2e6791c58775e36a4c3a8fd5b/1000x1000-000000-80-0-0.jpg",
+    "album": "The Balcony",
+    "year": 2014,
+    "genre": "indierock",
+    "lengthSeconds": 211
   },
   {
     "song-title": "First",
@@ -3195,7 +3223,11 @@
       "vocals": 2,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/02042458f2a3c2106049e3f113e6e64f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/02042458f2a3c2106049e3f113e6e64f/1000x1000-000000-80-0-0.jpg",
+    "album": "Hold My Home",
+    "year": 2014,
+    "genre": "indierock",
+    "lengthSeconds": 200
   },
   {
     "song-title": "Renegades",
@@ -3208,7 +3240,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e9c6ac5bf2a809dcd10c9928c85442b0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e9c6ac5bf2a809dcd10c9928c85442b0/1000x1000-000000-80-0-0.jpg",
+    "album": "VHS",
+    "year": 2015,
+    "genre": "alternative",
+    "lengthSeconds": 200
   },
   {
     "song-title": "Ex's and Oh's",
@@ -3221,7 +3257,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7663599d3a24513178261fcbe91f94c0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7663599d3a24513178261fcbe91f94c0/1000x1000-000000-80-0-0.jpg",
+    "album": "Love Stuff",
+    "year": 2015,
+    "genre": "alternative",
+    "lengthSeconds": 202
   },
   {
     "song-title": "Can't Feel My Face",
@@ -3234,7 +3274,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/eea9f7fc913300e40307a0ff70dc73cf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/eea9f7fc913300e40307a0ff70dc73cf/1000x1000-000000-80-0-0.jpg",
+    "album": "Beauty Behind the Madness",
+    "year": 2015,
+    "genre": "rbsoulfunk",
+    "lengthSeconds": 216
   },
   {
     "song-title": "Irresistible",
@@ -3247,7 +3291,11 @@
       "vocals": 4,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c0a1d1281570ad3becbb6146c6d54c0c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c0a1d1281570ad3becbb6146c6d54c0c/1000x1000-000000-80-0-0.jpg",
+    "album": "American Beauty/American Psycho",
+    "year": 2015,
+    "genre": "poprock",
+    "lengthSeconds": 211
   },
   {
     "song-title": "Different Colors",
@@ -3260,7 +3308,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4fd07406ef0cfa6dab31fd68d71eb2b7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4fd07406ef0cfa6dab31fd68d71eb2b7/1000x1000-000000-80-0-0.jpg",
+    "album": "Talking Is Hard",
+    "year": 2014,
+    "genre": "poprock",
+    "lengthSeconds": 225
   },
   {
     "song-title": "Stitches",
@@ -3273,7 +3325,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/46fab8006e0da286831fe157ccc4f31c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/46fab8006e0da286831fe157ccc4f31c/1000x1000-000000-80-0-0.jpg",
+    "album": "Handwritten",
+    "year": 2015,
+    "genre": "poprock",
+    "lengthSeconds": 210
   },
   {
     "song-title": "Adventure of a Lifetime",
@@ -3286,7 +3342,11 @@
       "vocals": 4,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6c217fb56f7f7961c634d6e9bca9ddae/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6c217fb56f7f7961c634d6e9bca9ddae/1000x1000-000000-80-0-0.jpg",
+    "album": "A Head Full of Dreams",
+    "year": 2015,
+    "genre": "alternative",
+    "lengthSeconds": 270
   },
   {
     "song-title": "Thank God for Girls",
@@ -3299,7 +3359,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/39381d55274f8fd48d6c07158c76ef25/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/39381d55274f8fd48d6c07158c76ef25/1000x1000-000000-80-0-0.jpg",
+    "album": "Weezer (The White Album)",
+    "year": 2016,
+    "genre": "alternative",
+    "lengthSeconds": 211
   },
   {
     "song-title": "What Do You Mean?",
@@ -3312,7 +3376,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/340283aafac320864b207c420124ee46/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/340283aafac320864b207c420124ee46/1000x1000-000000-80-0-0.jpg",
+    "album": "Purpose",
+    "year": 2015,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 208
   },
   {
     "song-title": "Get Lucky",
@@ -3338,7 +3406,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f81783b6cc6030733cd475f820855562/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f81783b6cc6030733cd475f820855562/1000x1000-000000-80-0-0.jpg",
+    "album": "Speakerboxxx/The Love Below",
+    "year": 2003,
+    "genre": "hiphoprap",
+    "lengthSeconds": 234
   },
   {
     "song-title": "Locked Out of Heaven",
@@ -3351,7 +3423,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2ae8e9f1714cc6cc9393f7873008f45c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2ae8e9f1714cc6cc9393f7873008f45c/1000x1000-000000-80-0-0.jpg",
+    "album": "Unorthodox Jukebox",
+    "year": 2012,
+    "genre": "poprock",
+    "lengthSeconds": 235
   },
   {
     "song-title": "Treasure",
@@ -3364,7 +3440,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2ae8e9f1714cc6cc9393f7873008f45c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2ae8e9f1714cc6cc9393f7873008f45c/1000x1000-000000-80-0-0.jpg",
+    "album": "Unorthodox Jukebox",
+    "year": 2012,
+    "genre": "poprock",
+    "lengthSeconds": 185
   },
   {
     "song-title": "Best Song Ever",
@@ -3377,7 +3457,11 @@
       "vocals": 6,
       "band": 5
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/620bcd9a3310b1bfaba639b060b54abf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/620bcd9a3310b1bfaba639b060b54abf/1000x1000-000000-80-0-0.jpg",
+    "album": "Midnight Memories",
+    "year": 2013,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 193
   },
   {
     "song-title": "She Looks So Perfect",
@@ -3390,7 +3474,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/607edd6e04268585206f8f42ca760de0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/607edd6e04268585206f8f42ca760de0/1000x1000-000000-80-0-0.jpg",
+    "album": "5 Seconds of Summer",
+    "year": 2014,
+    "genre": "poprock",
+    "lengthSeconds": 210
   },
   {
     "song-title": "My Songs Know What You Did in the Dark (Light Em Up)",
@@ -3403,7 +3491,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/265ba23705271a65f0633cd7a7444bed/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/265ba23705271a65f0633cd7a7444bed/1000x1000-000000-80-0-0.jpg",
+    "album": "Save Rock and Roll",
+    "year": 2013,
+    "genre": "poprock",
+    "lengthSeconds": 191
   },
   {
     "song-title": "Everybody Talks",
@@ -3416,7 +3508,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/aa71c0d064e5698ac486c5bb8005318a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/aa71c0d064e5698ac486c5bb8005318a/1000x1000-000000-80-0-0.jpg",
+    "album": "Picture Show",
+    "year": 2012,
+    "genre": "poprock",
+    "lengthSeconds": 182
   },
   {
     "song-title": "Get Clean",
@@ -3481,7 +3577,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d3380b311743baf8435f616371b95194/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d3380b311743baf8435f616371b95194/1000x1000-000000-80-0-0.jpg",
+    "album": "Swaay",
+    "year": 2015,
+    "genre": "poprock",
+    "lengthSeconds": 222
   },
   {
     "song-title": "Stressed Out",
@@ -3507,7 +3607,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/eea9f7fc913300e40307a0ff70dc73cf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/eea9f7fc913300e40307a0ff70dc73cf/1000x1000-000000-80-0-0.jpg",
+    "album": "Beauty Behind the Madness",
+    "year": 2015,
+    "genre": "rbsoulfunk",
+    "lengthSeconds": 240
   },
   {
     "song-title": "Sorry",
@@ -3520,7 +3624,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/340283aafac320864b207c420124ee46/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/340283aafac320864b207c420124ee46/1000x1000-000000-80-0-0.jpg",
+    "album": "Purpose",
+    "year": 2015,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 379
   },
   {
     "song-title": "Boyfriend",
@@ -3533,7 +3641,11 @@
       "vocals": 3,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/312ece7b31fb86c7a13afd757e99437c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/312ece7b31fb86c7a13afd757e99437c/1000x1000-000000-80-0-0.jpg",
+    "album": "Believe",
+    "year": 2012,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 180
   },
   {
     "song-title": "Love Yourself",
@@ -3546,7 +3658,11 @@
       "vocals": 2,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/340283aafac320864b207c420124ee46/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/340283aafac320864b207c420124ee46/1000x1000-000000-80-0-0.jpg",
+    "album": "Purpose",
+    "year": 2015,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 235
   },
   {
     "song-title": "Hook",
@@ -3572,7 +3688,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0f23ab7de2b53c5298044ef1de148c50/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0f23ab7de2b53c5298044ef1de148c50/1000x1000-000000-80-0-0.jpg",
+    "album": "The Black Parade",
+    "year": 2006,
+    "genre": "emo",
+    "lengthSeconds": 302
   },
   {
     "song-title": "Rude",
@@ -3585,7 +3705,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a393ea2d5dafca17cb80c3258a47a9ee/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a393ea2d5dafca17cb80c3258a47a9ee/1000x1000-000000-80-0-0.jpg",
+    "album": "Don't Kill the Magic",
+    "year": 2014,
+    "genre": "poprock",
+    "lengthSeconds": 226
   },
   {
     "song-title": "Iris",
@@ -3598,7 +3722,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fb8ad0c24c1a3fef50c7ec20f157923b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fb8ad0c24c1a3fef50c7ec20f157923b/1000x1000-000000-80-0-0.jpg",
+    "album": "Dizzy Up the Girl",
+    "year": 1998,
+    "genre": "alternative",
+    "lengthSeconds": 280
   },
   {
     "song-title": "Radioactive",
@@ -3611,7 +3739,11 @@
       "vocals": 1,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7e8314f4280cffde363547a495a260bc/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7e8314f4280cffde363547a495a260bc/1000x1000-000000-80-0-0.jpg",
+    "album": "Night Visions",
+    "year": 2012,
+    "genre": "alternative",
+    "lengthSeconds": 190
   },
   {
     "song-title": "Africa",
@@ -3637,7 +3769,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/24a42d4ba1b4b03b9aedd55a688093f9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/24a42d4ba1b4b03b9aedd55a688093f9/1000x1000-000000-80-0-0.jpg",
+    "album": "Third Eye Blind",
+    "year": 1997,
+    "genre": "alternative",
+    "lengthSeconds": 275
   },
   {
     "song-title": "Pompeii",
@@ -3650,7 +3786,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2d5984bac3f7865ea5a92a30221d5386/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2d5984bac3f7865ea5a92a30221d5386/1000x1000-000000-80-0-0.jpg",
+    "album": "Bad Blood",
+    "year": 2013,
+    "genre": "indierock",
+    "lengthSeconds": 218
   },
   {
     "song-title": "I'm Yours",
@@ -3663,7 +3803,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/14afa8e767482283a4bd57ceae31eb80/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/14afa8e767482283a4bd57ceae31eb80/1000x1000-000000-80-0-0.jpg",
+    "album": "We Sing. We Dance. We Steal Things.",
+    "year": 2008,
+    "genre": "poprock",
+    "lengthSeconds": 226
   },
   {
     "song-title": "Starships",
@@ -3676,7 +3820,11 @@
       "vocals": 3,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/3de7484240aaf23e129662c5914707df/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/3de7484240aaf23e129662c5914707df/1000x1000-000000-80-0-0.jpg",
+    "album": "Pink Friday: Roman Reloaded",
+    "year": 2012,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 213
   },
   {
     "song-title": "HandClap",
@@ -3689,7 +3837,11 @@
       "vocals": 1,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a6af120ce04d231bf811d22158818a54/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a6af120ce04d231bf811d22158818a54/1000x1000-000000-80-0-0.jpg",
+    "album": "Fitz and the Tantrums",
+    "year": 2016,
+    "genre": "poprock",
+    "lengthSeconds": 196
   },
   {
     "song-title": "Happy Song",
@@ -3702,7 +3854,11 @@
       "vocals": 1,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dd6af81a0d098fdd32e824fd43f2635d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dd6af81a0d098fdd32e824fd43f2635d/1000x1000-000000-80-0-0.jpg",
+    "album": "That's The Spirit",
+    "year": 2015,
+    "genre": "numetal",
+    "lengthSeconds": 243
   },
   {
     "song-title": "Safe and Sound",
@@ -3715,7 +3871,11 @@
       "vocals": 1,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/706368c86cd7dbc275905808db082873/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/706368c86cd7dbc275905808db082873/1000x1000-000000-80-0-0.jpg",
+    "album": "In a Tidal Wave of Mystery",
+    "year": 2013,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 196
   },
   {
     "song-title": "Happy",
@@ -3728,7 +3888,11 @@
       "vocals": 3,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a1939a9a40dc97ed404cc4597c6a32bc/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a1939a9a40dc97ed404cc4597c6a32bc/1000x1000-000000-80-0-0.jpg",
+    "album": "Girl",
+    "year": 2014,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 235
   },
   {
     "song-title": "Sweater Weather",
@@ -3741,7 +3905,11 @@
       "vocals": 4,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6f55ff3cc5c478510c948024e95cf8d6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6f55ff3cc5c478510c948024e95cf8d6/1000x1000-000000-80-0-0.jpg",
+    "album": "I Love You",
+    "year": 2013,
+    "genre": "indierock",
+    "lengthSeconds": 239
   },
   {
     "song-title": "Little Talks",
@@ -3754,7 +3922,11 @@
       "vocals": 2,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fd269461cb1125e4d74abfc21ba39e6e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fd269461cb1125e4d74abfc21ba39e6e/1000x1000-000000-80-0-0.jpg",
+    "album": "My Head Is an Animal",
+    "year": 2011,
+    "genre": "indierock",
+    "lengthSeconds": 257
   },
   {
     "song-title": "Chandelier",
@@ -3767,7 +3939,11 @@
       "vocals": 6,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4275db12f5e284b3c2f3e20726187b64/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4275db12f5e284b3c2f3e20726187b64/1000x1000-000000-80-0-0.jpg",
+    "album": "1000 Forms of Fear",
+    "year": 2014,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 218
   },
   {
     "song-title": "Closer",
@@ -3793,7 +3969,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1130d6301d5e87976279ea2f706fcc26/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1130d6301d5e87976279ea2f706fcc26/1000x1000-000000-80-0-0.jpg",
+    "album": "Let Go",
+    "year": 2002,
+    "genre": "poprock",
+    "lengthSeconds": 246
   },
   {
     "song-title": "My Happy Ending",
@@ -3806,7 +3986,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a2415367827a13b3a47670998a5edc77/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a2415367827a13b3a47670998a5edc77/1000x1000-000000-80-0-0.jpg",
+    "album": "Under My Skin",
+    "year": 2004,
+    "genre": "poprock",
+    "lengthSeconds": 246
   },
   {
     "song-title": "What the Hell",
@@ -3819,7 +4003,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4d966d12d78edb57e435a9b811150b5c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4d966d12d78edb57e435a9b811150b5c/1000x1000-000000-80-0-0.jpg",
+    "album": "Goodbye Lullaby",
+    "year": 2011,
+    "genre": "poprock",
+    "lengthSeconds": 223
   },
   {
     "song-title": "Still Breathing",
@@ -3832,7 +4020,11 @@
       "vocals": 2,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/bb1cf562bb346d5ab77fec9d7ff08a1a/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/bb1cf562bb346d5ab77fec9d7ff08a1a/1000x1000-000000-80-0-0.jpg",
+    "album": "Revolution Radio",
+    "year": 2016,
+    "genre": "rock",
+    "lengthSeconds": 228
   },
   {
     "song-title": "Starboy",
@@ -4040,7 +4232,11 @@
       "vocals": 3,
       "band": 0
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7bb0b356418fbb275c0c3db7259128d7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7bb0b356418fbb275c0c3db7259128d7/1000x1000-000000-80-0-0.jpg",
+    "album": "Pure Heroine",
+    "year": 2013,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 195
   },
   {
     "song-title": "Wake Me Up",
@@ -4053,7 +4249,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ec97306735b46ec334e0ce562290775b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ec97306735b46ec334e0ce562290775b/1000x1000-000000-80-0-0.jpg",
+    "album": "True",
+    "year": 2013,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 248
   },
   {
     "song-title": "Party Rock Anthem",
@@ -4079,7 +4279,11 @@
       "vocals": 5,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5f7bd91e2d91ce2d308ee754d6821ff7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5f7bd91e2d91ce2d308ee754d6821ff7/1000x1000-000000-80-0-0.jpg",
+    "album": "Some Nights",
+    "year": 2012,
+    "genre": "poprock",
+    "lengthSeconds": 278
   },
   {
     "song-title": "S.O.M.P.",
@@ -4105,7 +4309,11 @@
       "vocals": 4,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/13c24a3db7e963a33d160fbe92c9e710/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/13c24a3db7e963a33d160fbe92c9e710/1000x1000-000000-80-0-0.jpg",
+    "album": "Artpop",
+    "year": 2013,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 213
   },
   {
     "song-title": "Nine in the Afternoon",
@@ -4287,7 +4495,11 @@
       "vocals": 4,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/63bb716faf92942d967f5c053fc8720c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/63bb716faf92942d967f5c053fc8720c/1000x1000-000000-80-0-0.jpg",
+    "album": "Native",
+    "year": 2013,
+    "genre": "poprock",
+    "lengthSeconds": 260
   },
   {
     "song-title": "Shape of You",
@@ -4300,7 +4512,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/107c2b43f10c249077c1f7618563bb63/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/107c2b43f10c249077c1f7618563bb63/1000x1000-000000-80-0-0.jpg",
+    "album": "Divide",
+    "year": 2017,
+    "genre": "poprock",
+    "lengthSeconds": 237
   },
   {
     "song-title": "Champagne Supernova",
@@ -4313,7 +4529,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/197abb40d9830bbb86968ffdf246133f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/197abb40d9830bbb86968ffdf246133f/1000x1000-000000-80-0-0.jpg",
+    "album": "(What's the Story) Morning Glory?",
+    "year": 1995,
+    "genre": "rock",
+    "lengthSeconds": 426
   },
   {
     "song-title": "Kids",
@@ -4326,7 +4546,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/751372bcbd63a38e6ec6ef8bd448d687/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/751372bcbd63a38e6ec6ef8bd448d687/1000x1000-000000-80-0-0.jpg",
+    "album": "Oracular Spectacular",
+    "year": 2007,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 302
   },
   {
     "song-title": "Ain't It Fun",
@@ -4339,7 +4563,11 @@
       "vocals": 5,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/485d7cab7695e48f1420182647273de4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/485d7cab7695e48f1420182647273de4/1000x1000-000000-80-0-0.jpg",
+    "album": "Paramore",
+    "year": 2013,
+    "genre": "poprock",
+    "lengthSeconds": 303
   },
   {
     "song-title": "Gold on the Ceiling",
@@ -4352,7 +4580,11 @@
       "vocals": 1,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f1e189eb93b8508d102931bcd9293ce8/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f1e189eb93b8508d102931bcd9293ce8/1000x1000-000000-80-0-0.jpg",
+    "album": "El Camino",
+    "year": 2011,
+    "genre": "rock",
+    "lengthSeconds": 218
   },
   {
     "song-title": "Testify",
@@ -4430,7 +4662,11 @@
       "vocals": 3,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a8d1eefc87597ee3c4d32b6a89371158/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a8d1eefc87597ee3c4d32b6a89371158/1000x1000-000000-80-0-0.jpg",
+    "album": "14:59",
+    "year": 1999,
+    "genre": "alternative",
+    "lengthSeconds": 209
   },
   {
     "song-title": "Postpone",
@@ -4443,7 +4679,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/415ef8fde88088b7868927d20ed85254/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/415ef8fde88088b7868927d20ed85254/1000x1000-000000-80-0-0.jpg",
+    "album": "The Ride",
+    "year": 2016,
+    "genre": "indierock",
+    "lengthSeconds": 247
   },
   {
     "song-title": "Karma Police",
@@ -4456,7 +4696,11 @@
       "vocals": 4,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/05a186e0a859a36f9cd51cdae2158fe1/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/05a186e0a859a36f9cd51cdae2158fe1/1000x1000-000000-80-0-0.jpg",
+    "album": "OK Computer",
+    "year": 1997,
+    "genre": "alternative",
+    "lengthSeconds": 266
   },
   {
     "song-title": "Say It Ain't So",
@@ -4612,7 +4856,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/da7eb4c99604b2fda5f123aba3897850/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/da7eb4c99604b2fda5f123aba3897850/1000x1000-000000-80-0-0.jpg",
+    "album": "Voicenotes",
+    "year": 2018,
+    "genre": "poprock",
+    "lengthSeconds": 212
   },
   {
     "song-title": "Sorry Not Sorry",
@@ -4625,7 +4873,11 @@
       "vocals": 6,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e1385d64b8f3fa5b3abae2e889b23edf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e1385d64b8f3fa5b3abae2e889b23edf/1000x1000-000000-80-0-0.jpg",
+    "album": "Tell Me You Love Me",
+    "year": 2017,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 205
   },
   {
     "song-title": "Feel It Still",
@@ -4638,7 +4890,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c088a8e43543bd7995f40cde3c174ab3/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c088a8e43543bd7995f40cde3c174ab3/1000x1000-000000-80-0-0.jpg",
+    "album": "Woodstock",
+    "year": 2017,
+    "genre": "alternative",
+    "lengthSeconds": 165
   },
   {
     "song-title": "Open Water",
@@ -4664,7 +4920,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dfe147eb85476206f6464ee7dcee7948/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dfe147eb85476206f6464ee7dcee7948/1000x1000-000000-80-0-0.jpg",
+    "album": "Windows I",
+    "year": 2017,
+    "genre": "indierock",
+    "lengthSeconds": 165
   },
   {
     "song-title": "Bloodhands (Oh My Fever)",
@@ -4716,7 +4976,11 @@
       "vocals": 2,
       "band": 0
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e0a0ab394c08c481008f0f7286a05c9c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e0a0ab394c08c481008f0f7286a05c9c/1000x1000-000000-80-0-0.jpg",
+    "album": "Southside",
+    "year": 2020,
+    "genre": "country",
+    "lengthSeconds": 166
   },
   {
     "song-title": "Live in the Moment",
@@ -4729,7 +4993,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c088a8e43543bd7995f40cde3c174ab3/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c088a8e43543bd7995f40cde3c174ab3/1000x1000-000000-80-0-0.jpg",
+    "album": "Woodstock",
+    "year": 2017,
+    "genre": "alternative",
+    "lengthSeconds": 247
   },
   {
     "song-title": "Believer",
@@ -4742,7 +5010,11 @@
       "vocals": 4,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/247b228179aea3b083eef43522b78b45/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/247b228179aea3b083eef43522b78b45/1000x1000-000000-80-0-0.jpg",
+    "album": "Evolve",
+    "year": 2017,
+    "genre": "alternative",
+    "lengthSeconds": 206
   },
   {
     "song-title": "Stolen Dance",
@@ -4755,7 +5027,11 @@
       "vocals": 2,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f9d654c8dfbb4420827b542b9a7c1425/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f9d654c8dfbb4420827b542b9a7c1425/1000x1000-000000-80-0-0.jpg",
+    "album": "Sadnecessary",
+    "year": 2013,
+    "genre": "alternative",
+    "lengthSeconds": 305
   },
   {
     "song-title": "Steal My Sunshine",
@@ -4885,7 +5161,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/bb46fb170ee3b428e14e2b247bc0a23c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/bb46fb170ee3b428e14e2b247bc0a23c/1000x1000-000000-80-0-0.jpg",
+    "album": "A Brief Inquiry into Online Relationships",
+    "year": 2018,
+    "genre": "alternative",
+    "lengthSeconds": 201
   },
   {
     "song-title": "This Will Be the Day",
@@ -4911,7 +5191,11 @@
       "vocals": 1,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/362f594b92888707ef5d777ae6af43f7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/362f594b92888707ef5d777ae6af43f7/1000x1000-000000-80-0-0.jpg",
+    "album": "finding it hard to smile",
+    "year": 2017,
+    "genre": "alternative",
+    "lengthSeconds": 205
   },
   {
     "song-title": "Sober Up",
@@ -4937,7 +5221,11 @@
       "vocals": 1,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7ee9b27da1e976e70de7b5a3204625f2/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7ee9b27da1e976e70de7b5a3204625f2/1000x1000-000000-80-0-0.jpg",
+    "album": "Spring EP",
+    "year": 2018,
+    "genre": "alternative",
+    "lengthSeconds": 204
   },
   {
     "song-title": "Simplify",
@@ -4950,7 +5238,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4e97432c7b7706cad45bd41d65b859ea/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4e97432c7b7706cad45bd41d65b859ea/1000x1000-000000-80-0-0.jpg",
+    "album": "Simplify",
+    "year": 2018,
+    "genre": "alternative",
+    "lengthSeconds": 214
   },
   {
     "song-title": "Thinking Emoji",
@@ -5041,7 +5333,11 @@
       "vocals": 6,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/cf462e1ec4301ac633e7084223a977af/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/cf462e1ec4301ac633e7084223a977af/1000x1000-000000-80-0-0.jpg",
+    "album": "YOUNG&DANGEROUS",
+    "year": 2018,
+    "genre": "rock",
+    "lengthSeconds": 182
   },
   {
     "song-title": "MANTRA",
@@ -5054,7 +5350,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/3a69565903e367f0670ad1d42acb22db/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/3a69565903e367f0670ad1d42acb22db/1000x1000-000000-80-0-0.jpg",
+    "album": "amo",
+    "year": 2019,
+    "genre": "numetal",
+    "lengthSeconds": 235
   },
   {
     "song-title": "Paradise",
@@ -5080,7 +5380,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c8451afc1bde7572a2637d06de6f094f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c8451afc1bde7572a2637d06de6f094f/1000x1000-000000-80-0-0.jpg",
+    "album": "The Balance",
+    "year": 2019,
+    "genre": "indierock",
+    "lengthSeconds": 236
   },
   {
     "song-title": "When Am I Gonna Lose You",
@@ -5106,7 +5410,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/61a2e3b5a084305f503ea641e2841ecb/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/61a2e3b5a084305f503ea641e2841ecb/1000x1000-000000-80-0-0.jpg",
+    "album": "Pray for the Wicked",
+    "year": 2018,
+    "genre": "emo",
+    "lengthSeconds": 195
   },
   {
     "song-title": "100 Bad Days",
@@ -5119,7 +5427,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/39fc4593f99e949a8841e052e00c350e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/39fc4593f99e949a8841e052e00c350e/1000x1000-000000-80-0-0.jpg",
+    "album": "Neotheater",
+    "year": 2019,
+    "genre": "poprock",
+    "lengthSeconds": 213
   },
   {
     "song-title": "Old Town Road (Remix)",
@@ -5158,7 +5470,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2ee4bf099efa0602fbae6c141544bc69/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2ee4bf099efa0602fbae6c141544bc69/1000x1000-000000-80-0-0.jpg",
+    "album": "Prom Queen",
+    "year": 2018,
+    "genre": "alternative",
+    "lengthSeconds": 139
   },
   {
     "song-title": "bad guy",
@@ -5171,7 +5487,11 @@
       "vocals": 2,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6630083f454d48eadb6a9b53f035d734/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6630083f454d48eadb6a9b53f035d734/1000x1000-000000-80-0-0.jpg",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "year": 2019,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 197
   },
   {
     "song-title": "I Just Wanna Shine",
@@ -5184,7 +5504,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/32b2b02fb1ca31cecf7519ecff8b7f38/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/32b2b02fb1ca31cecf7519ecff8b7f38/1000x1000-000000-80-0-0.jpg",
+    "album": "All the Feels",
+    "year": 2019,
+    "genre": "poprock",
+    "lengthSeconds": 209
   },
   {
     "song-title": "Circles",
@@ -5197,7 +5521,11 @@
       "vocals": 1,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6fb46005a49df7aeba49f1ca117f3710/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6fb46005a49df7aeba49f1ca117f3710/1000x1000-000000-80-0-0.jpg",
+    "album": "Hollywood's Bleeding",
+    "year": 2019,
+    "genre": "poprock",
+    "lengthSeconds": 216
   },
   {
     "song-title": "Addicted",
@@ -5210,7 +5538,11 @@
       "vocals": 1,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a7d40c947c9e12707967aacf6822e75b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a7d40c947c9e12707967aacf6822e75b/1000x1000-000000-80-0-0.jpg",
+    "album": "No Pads, No Helmets...Just Balls",
+    "year": 2002,
+    "genre": "alternative",
+    "lengthSeconds": 240
   },
   {
     "song-title": "Welcome to My Life",
@@ -5223,7 +5555,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2cbb404447884a04d378046ebb8c90cc/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2cbb404447884a04d378046ebb8c90cc/1000x1000-000000-80-0-0.jpg",
+    "album": "Still Not Getting Any...",
+    "year": 2004,
+    "genre": "alternative",
+    "lengthSeconds": 208
   },
   {
     "song-title": "Where I Belong",
@@ -5249,7 +5585,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/58f170dfe3d8a3c19f946dc5cb024025/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/58f170dfe3d8a3c19f946dc5cb024025/1000x1000-000000-80-0-0.jpg",
+    "album": "Angel Miners & the Lightning Riders",
+    "year": 2020,
+    "genre": "alternative",
+    "lengthSeconds": 226
   },
   {
     "song-title": "Colors",
@@ -5275,7 +5615,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5afe3d8baa8ada707d5ad4c46d9cad75/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5afe3d8baa8ada707d5ad4c46d9cad75/1000x1000-000000-80-0-0.jpg",
+    "album": "Wake Up, Sunshine",
+    "year": 2020,
+    "genre": "emo",
+    "lengthSeconds": 227
   },
   {
     "song-title": "Don't Start Now",
@@ -5288,7 +5632,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f8364f090ba04f1b19b381ec0390f3e4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f8364f090ba04f1b19b381ec0390f3e4/1000x1000-000000-80-0-0.jpg",
+    "album": "Future Nostalgia",
+    "year": 2020,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 184
   },
   {
     "song-title": "Simmer",
@@ -5301,7 +5649,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4cce2412d0826774de155282b5855e61/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4cce2412d0826774de155282b5855e61/1000x1000-000000-80-0-0.jpg",
+    "album": "Petals For Armor",
+    "year": 2020,
+    "genre": "alternative",
+    "lengthSeconds": 268
   },
   {
     "song-title": "Juice",
@@ -5314,7 +5666,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/593cf4239df5504dced88a78f7e2e698/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/593cf4239df5504dced88a78f7e2e698/1000x1000-000000-80-0-0.jpg",
+    "album": "Cuz I Love You",
+    "year": 2019,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 200
   },
   {
     "song-title": "Level of Concern",
@@ -5327,7 +5683,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/089ca644d16fc809da82c4838001edff/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/089ca644d16fc809da82c4838001edff/1000x1000-000000-80-0-0.jpg",
+    "album": "Level of Concern",
+    "year": 2020,
+    "genre": "alternative",
+    "lengthSeconds": 226
   },
   {
     "song-title": "Bang!",
@@ -5340,7 +5700,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ddd6a5c58401864fde22a3eb26678e6d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ddd6a5c58401864fde22a3eb26678e6d/1000x1000-000000-80-0-0.jpg",
+    "album": "Bang!",
+    "year": 2020,
+    "genre": "poprock",
+    "lengthSeconds": 174
   },
   {
     "song-title": "Adore You",
@@ -5353,7 +5717,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/346c524c15ecccbc4a8a78e8972a352c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/346c524c15ecccbc4a8a78e8972a352c/1000x1000-000000-80-0-0.jpg",
+    "album": "Fine Line",
+    "year": 2019,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 212
   },
   {
     "song-title": "Cradles",
@@ -5366,7 +5734,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c706f78f0fe1a90ebcf8fcad8ced7b51/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c706f78f0fe1a90ebcf8fcad8ced7b51/1000x1000-000000-80-0-0.jpg",
+    "album": "Cradles",
+    "year": 2019,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 214
   },
   {
     "song-title": "Blinding Lights",
@@ -5379,7 +5751,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/1000x1000-000000-80-0-0.jpg",
+    "album": "After Hours",
+    "year": 2019,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 205
   },
   {
     "song-title": "Monsters",
@@ -5418,7 +5794,11 @@
       "vocals": 4,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/44e11184e2d95756fdb48392f1b99a02/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/44e11184e2d95756fdb48392f1b99a02/1000x1000-000000-80-0-0.jpg",
+    "album": "...Is a Real Boy",
+    "year": 2004,
+    "genre": "emo",
+    "lengthSeconds": 258
   },
   {
     "song-title": "Golden",
@@ -5431,7 +5811,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/346c524c15ecccbc4a8a78e8972a352c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/346c524c15ecccbc4a8a78e8972a352c/1000x1000-000000-80-0-0.jpg",
+    "album": "Fine Line",
+    "year": 2019,
+    "genre": "poprock",
+    "lengthSeconds": 211
   },
   {
     "song-title": "bloody valentine",
@@ -5470,7 +5854,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/df1e3dd3a90ad641912ceaa5a26ac954/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/df1e3dd3a90ad641912ceaa5a26ac954/1000x1000-000000-80-0-0.jpg",
+    "album": "Fantasies",
+    "year": 2009,
+    "genre": "alternative",
+    "lengthSeconds": 289
   },
   {
     "song-title": "My Ex's Best Friend",
@@ -5496,7 +5884,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/563e0240d70e28c83bf4adccccade174/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/563e0240d70e28c83bf4adccccade174/1000x1000-000000-80-0-0.jpg",
+    "album": "You're Welcome",
+    "year": 2021,
+    "genre": "punk",
+    "lengthSeconds": 177
   },
   {
     "song-title": "Someone to You",
@@ -5509,7 +5901,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4da5ef4a75f3cf83cf10573fbed443f6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4da5ef4a75f3cf83cf10573fbed443f6/1000x1000-000000-80-0-0.jpg",
+    "album": "Where the Shadow Ends",
+    "year": 2019,
+    "genre": "alternative",
+    "lengthSeconds": 221
   },
   {
     "song-title": "Heat Waves",
@@ -5522,7 +5918,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/04ea51c6eb90a6208f2e47da861cf1a5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/04ea51c6eb90a6208f2e47da861cf1a5/1000x1000-000000-80-0-0.jpg",
+    "album": "Dreamland",
+    "year": 2020,
+    "genre": "alternative",
+    "lengthSeconds": 242
   },
   {
     "song-title": "Follow You",
@@ -5535,7 +5935,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7a2922ddeea27f558d958c6bb35dffb6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7a2922ddeea27f558d958c6bb35dffb6/1000x1000-000000-80-0-0.jpg",
+    "album": "Mercury - Act 1",
+    "year": 2021,
+    "genre": "alternative",
+    "lengthSeconds": 176
   },
   {
     "song-title": "Nowhere Generation",
@@ -5548,7 +5952,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/670609dcf0741c32b95ec453bac657f7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/670609dcf0741c32b95ec453bac657f7/1000x1000-000000-80-0-0.jpg",
+    "album": "Nowhere Generation",
+    "year": 2021,
+    "genre": "punk",
+    "lengthSeconds": 236
   },
   {
     "song-title": "estella//",
@@ -5574,7 +5982,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e68da86fd7976135c2d2d1715afaef7c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e68da86fd7976135c2d2d1715afaef7c/1000x1000-000000-80-0-0.jpg",
+    "album": "Sour",
+    "year": 2021,
+    "genre": "poprock",
+    "lengthSeconds": 183
   },
   {
     "song-title": "MONTERO (Call Me by Your Name)",
@@ -5587,7 +5999,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fc939e4030254f80bd90b616f2a1d0a6/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fc939e4030254f80bd90b616f2a1d0a6/1000x1000-000000-80-0-0.jpg",
+    "album": "MONTERO",
+    "year": 2021,
+    "genre": "hiphoprap",
+    "lengthSeconds": 142
   },
   {
     "song-title": "Paralyzed",
@@ -5600,7 +6016,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e50a9b2aa7f9a737171706c19cff53ca/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e50a9b2aa7f9a737171706c19cff53ca/1000x1000-000000-80-0-0.jpg",
+    "album": "Paralyzed",
+    "year": 2021,
+    "genre": "hiphoprap",
+    "lengthSeconds": 166
   },
   {
     "song-title": "Grand Canyon",
@@ -5626,7 +6046,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/41596aed7dff419e586e2cd7e52e38d9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/41596aed7dff419e586e2cd7e52e38d9/1000x1000-000000-80-0-0.jpg",
+    "album": "In Our Own Sweet Time",
+    "year": 2022,
+    "genre": "indierock",
+    "lengthSeconds": 226
   },
   {
     "song-title": "Cold Heart (PNAU Remix)",
@@ -5639,7 +6063,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dd4e748c3b0ae1a553832908fee96c15/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dd4e748c3b0ae1a553832908fee96c15/1000x1000-000000-80-0-0.jpg",
+    "album": "The Lockdown Sessions",
+    "year": 2021,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 206
   },
   {
     "song-title": "brutal",
@@ -5652,7 +6080,11 @@
       "vocals": 1,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e68da86fd7976135c2d2d1715afaef7c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e68da86fd7976135c2d2d1715afaef7c/1000x1000-000000-80-0-0.jpg",
+    "album": "Sour",
+    "year": 2021,
+    "genre": "poprock",
+    "lengthSeconds": 146
   },
   {
     "song-title": "Face Down",
@@ -5665,7 +6097,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d468592f2a5f4f920c337fc41bf1b04e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d468592f2a5f4f920c337fc41bf1b04e/1000x1000-000000-80-0-0.jpg",
+    "album": "Don't You Fake It",
+    "year": 2006,
+    "genre": "emo",
+    "lengthSeconds": 194
   },
   {
     "song-title": "DiE4u",
@@ -5678,7 +6114,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/03730037a076b2b4d3e9254f1a0441f5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/03730037a076b2b4d3e9254f1a0441f5/1000x1000-000000-80-0-0.jpg",
+    "album": "POST HUMAN: NeX GEn",
+    "year": 2024,
+    "genre": "numetal",
+    "lengthSeconds": 206
   },
   {
     "song-title": "Take It Off",
@@ -5691,7 +6131,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4817523d7a71f792607e720abfead742/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4817523d7a71f792607e720abfead742/1000x1000-000000-80-0-0.jpg",
+    "album": "Spend the Night",
+    "year": 2002,
+    "genre": "rock",
+    "lengthSeconds": 163
   },
   {
     "song-title": "Waking Up In Vegas",
@@ -5704,7 +6148,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/35da5d8b864af3cbf81591a5b24495f9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/35da5d8b864af3cbf81591a5b24495f9/1000x1000-000000-80-0-0.jpg",
+    "album": "One of the Boys",
+    "year": 2008,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 176
   },
   {
     "song-title": "I Think I'm OKAY",
@@ -5730,7 +6178,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/cd1555a45d5cd956766a52fc47638de0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/cd1555a45d5cd956766a52fc47638de0/1000x1000-000000-80-0-0.jpg",
+    "album": "Emotion",
+    "year": 2015,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 208
   },
   {
     "song-title": "she's all i wanna be",
@@ -5743,7 +6195,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/29aa66d8e1cc88de572f17ecc83fefa4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/29aa66d8e1cc88de572f17ecc83fefa4/1000x1000-000000-80-0-0.jpg",
+    "album": "i used to think i could fly",
+    "year": 2022,
+    "genre": "poprock",
+    "lengthSeconds": 210
   },
   {
     "song-title": "Anything Was Better",
@@ -5756,7 +6212,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d169f95a7c32c18c25cb799ca5e23bd1/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d169f95a7c32c18c25cb799ca5e23bd1/1000x1000-000000-80-0-0.jpg",
+    "album": "In the Wild",
+    "year": 2022,
+    "genre": "punk",
+    "lengthSeconds": 181
   },
   {
     "song-title": "What You Know",
@@ -5769,7 +6229,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/7fc54eedf6752146ea59e7570b48ad3e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7fc54eedf6752146ea59e7570b48ad3e/1000x1000-000000-80-0-0.jpg",
+    "album": "Tourist History",
+    "year": 2010,
+    "genre": "indierock",
+    "lengthSeconds": 195
   },
   {
     "song-title": "Blood for the Blood God",
@@ -5821,7 +6285,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ee3d8c5b7400e76756e613cc439d29bb/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ee3d8c5b7400e76756e613cc439d29bb/1000x1000-000000-80-0-0.jpg",
+    "album": "Apocalypse Whenever",
+    "year": 2022,
+    "genre": "indierock",
+    "lengthSeconds": 232
   },
   {
     "song-title": "Hard Times",
@@ -5834,7 +6302,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b43c1a8f1be9a9ee3654562e5a949426/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b43c1a8f1be9a9ee3654562e5a949426/1000x1000-000000-80-0-0.jpg",
+    "album": "After Laughter",
+    "year": 2017,
+    "genre": "poprock",
+    "lengthSeconds": 186
   },
   {
     "song-title": "Rollercoaster",
@@ -5860,7 +6332,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c86f870a3ea8782da239a9dd10315cdc/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c86f870a3ea8782da239a9dd10315cdc/1000x1000-000000-80-0-0.jpg",
+    "album": "Top Gun: Maverick (Music from the Motion Picture)",
+    "year": 2022,
+    "genre": "poprock",
+    "lengthSeconds": 151
   },
   {
     "song-title": "Loved You a Little",
@@ -5886,7 +6362,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2dd699adcd68089f49f3ab558a2bd296/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2dd699adcd68089f49f3ab558a2bd296/1000x1000-000000-80-0-0.jpg",
+    "album": "Minutes to Midnight",
+    "year": 2007,
+    "genre": "numetal",
+    "lengthSeconds": 193
   },
   {
     "song-title": "20th Century Boy",
@@ -7043,7 +7523,11 @@
       "vocals": 2,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a26d18f81250715996c5989a1bb41d98/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a26d18f81250715996c5989a1bb41d98/1000x1000-000000-80-0-0.jpg",
+    "album": "St. Vincent",
+    "year": 2014,
+    "genre": "indierock",
+    "lengthSeconds": 201
   },
   {
     "song-title": "Brown Eyed Girl",
@@ -7095,7 +7579,11 @@
       "vocals": 4,
       "band": 0
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c0a1d1281570ad3becbb6146c6d54c0c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c0a1d1281570ad3becbb6146c6d54c0c/1000x1000-000000-80-0-0.jpg",
+    "album": "American Beauty/American Psycho",
+    "year": 2015,
+    "genre": "poprock",
+    "lengthSeconds": 243
   },
   {
     "song-title": "Cold Clear Light",
@@ -7199,7 +7687,11 @@
       "vocals": 3,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f0f19ba90f7cde0d35cc1dfdad7949c8/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f0f19ba90f7cde0d35cc1dfdad7949c8/1000x1000-000000-80-0-0.jpg",
+    "album": "Wish",
+    "year": 1992,
+    "genre": "new_wave",
+    "lengthSeconds": 215
   },
   {
     "song-title": "Hail to the King",
@@ -7251,7 +7743,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ee5e3e4d92b6014ea4edc9b91a1dfeb4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ee5e3e4d92b6014ea4edc9b91a1dfeb4/1000x1000-000000-80-0-0.jpg",
+    "album": "Smoke + Mirrors",
+    "year": 2015,
+    "genre": "alternative",
+    "lengthSeconds": 197
   },
   {
     "song-title": "I Miss the Misery",
@@ -7290,7 +7786,11 @@
       "vocals": 2,
       "band": 5
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9aa2e6f7b0152b94c2df61572598b3a9/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9aa2e6f7b0152b94c2df61572598b3a9/1000x1000-000000-80-0-0.jpg",
+    "album": "Let's Face It",
+    "year": 1997,
+    "genre": "reggaeska",
+    "lengthSeconds": 196
   },
   {
     "song-title": "Kick It Out",
@@ -7563,7 +8063,11 @@
       "vocals": 2,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0d4faa71ab917822fb9e39dfa8616cd5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0d4faa71ab917822fb9e39dfa8616cd5/1000x1000-000000-80-0-0.jpg",
+    "album": "Meaty Beaty Big and Bouncy",
+    "year": 1971,
+    "genre": "classicrock",
+    "lengthSeconds": 201
   },
   {
     "song-title": "Short Skirt/Long Jacket",
@@ -7589,7 +8093,11 @@
       "vocals": 2,
       "band": 5
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/1000x1000-000000-80-0-0.jpg",
+    "album": "Hot Fuss",
+    "year": 2004,
+    "genre": "alternative",
+    "lengthSeconds": 202
   },
   {
     "song-title": "Spiders",
@@ -7628,7 +8136,11 @@
       "vocals": 6,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/485d7cab7695e48f1420182647273de4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/485d7cab7695e48f1420182647273de4/1000x1000-000000-80-0-0.jpg",
+    "album": "Paramore",
+    "year": 2013,
+    "genre": "poprock",
+    "lengthSeconds": 213
   },
   {
     "song-title": "Superunknown",
@@ -7654,7 +8166,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/63a45fe89705b6f06b477354786a2a14/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/63a45fe89705b6f06b477354786a2a14/1000x1000-000000-80-0-0.jpg",
+    "album": "From Elvis in Memphis",
+    "year": 1969,
+    "genre": "rock",
+    "lengthSeconds": 271
   },
   {
     "song-title": "That Smell",
@@ -7680,7 +8196,11 @@
       "vocals": 1,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/294bec63844291f48ba61f28ad1ca673/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/294bec63844291f48ba61f28ad1ca673/1000x1000-000000-80-0-0.jpg",
+    "album": "Never Trust a Happy Song",
+    "year": 2011,
+    "genre": "indierock",
+    "lengthSeconds": 221
   },
   {
     "song-title": "Toys in the Attic",
@@ -7706,7 +8226,11 @@
       "vocals": 4,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b59dc300a940ba18da2dbd9e6e52b2cf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b59dc300a940ba18da2dbd9e6e52b2cf/1000x1000-000000-80-0-0.jpg",
+    "album": "Wildewoman",
+    "year": 2013,
+    "genre": "indierock",
+    "lengthSeconds": 215
   },
   {
     "song-title": "Uptown Funk",
@@ -7771,7 +8295,11 @@
       "vocals": 6,
       "band": 0
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/22ab04ebf46e75a8c2c83a774c8831a8/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/22ab04ebf46e75a8c2c83a774c8831a8/1000x1000-000000-80-0-0.jpg",
+    "album": "Bigger, Better, Faster, More!",
+    "year": 1992,
+    "genre": "alternative",
+    "lengthSeconds": 300
   },
   {
     "song-title": "The Wolf",
@@ -7784,7 +8312,11 @@
       "vocals": 1,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a48b97ccdaaf99eec6fbf172078e64da/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a48b97ccdaaf99eec6fbf172078e64da/1000x1000-000000-80-0-0.jpg",
+    "album": "Wilder Mind",
+    "year": 2015,
+    "genre": "rock",
+    "lengthSeconds": 221
   },
   {
     "song-title": "You Make Loving Fun",
@@ -7797,7 +8329,11 @@
       "vocals": 5,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/1000x1000-000000-80-0-0.jpg",
+    "album": "Rumours",
+    "year": 1977,
+    "genre": "classicrock",
+    "lengthSeconds": 222
   },
   {
     "song-title": "Your Love",
@@ -7823,7 +8359,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b11babbf46f778f9858b9575fa2ee4f0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b11babbf46f778f9858b9575fa2ee4f0/1000x1000-000000-80-0-0.jpg",
+    "album": "So Much (For) Stardust",
+    "year": 2023,
+    "genre": "poprock",
+    "lengthSeconds": 246
   },
   {
     "song-title": "This Is Why",
@@ -7836,7 +8376,11 @@
       "vocals": 4,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/15b205611f8695468dece5be1fdfe981/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/15b205611f8695468dece5be1fdfe981/1000x1000-000000-80-0-0.jpg",
+    "album": "This Is Why",
+    "year": 2023,
+    "genre": "poprock",
+    "lengthSeconds": 209
   },
   {
     "song-title": "Mountain Sound",
@@ -7849,7 +8393,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/fd269461cb1125e4d74abfc21ba39e6e/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/fd269461cb1125e4d74abfc21ba39e6e/1000x1000-000000-80-0-0.jpg",
+    "album": "My Head is an Animal",
+    "year": 2011,
+    "genre": "indierock",
+    "lengthSeconds": 217
   },
   {
     "song-title": "21st Century (Digital Boy)",
@@ -8005,7 +8553,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/18b11ce4b23571402fcd00a2246b554d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/18b11ce4b23571402fcd00a2246b554d/1000x1000-000000-80-0-0.jpg",
+    "album": "Angels & Demons",
+    "year": 2020,
+    "genre": "alternative",
+    "lengthSeconds": 165
   },
   {
     "song-title": "Another One Bites the Dust",
@@ -8031,7 +8583,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4f57b6d9f1e1d3a063b3beb0b3577eb5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4f57b6d9f1e1d3a063b3beb0b3577eb5/1000x1000-000000-80-0-0.jpg",
+    "album": "Take Off Your Pants and Jacket",
+    "year": 2001,
+    "genre": "punk",
+    "lengthSeconds": 233
   },
   {
     "song-title": "Australia",
@@ -8122,7 +8678,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/1000x1000-000000-80-0-0.jpg",
+    "album": "In Between Dreams",
+    "year": 2005,
+    "genre": "rock",
+    "lengthSeconds": 213
   },
   {
     "song-title": "Bitch",
@@ -8187,7 +8747,11 @@
       "vocals": 2,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8f1c44b603be709369ddf012764afe7f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8f1c44b603be709369ddf012764afe7f/1000x1000-000000-80-0-0.jpg",
+    "album": "California",
+    "year": 2016,
+    "genre": "punk",
+    "lengthSeconds": 234
   },
   {
     "song-title": "Born This Way",
@@ -8252,7 +8816,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/9953aecd3b6bad65f5b0acf711316fdd/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/9953aecd3b6bad65f5b0acf711316fdd/1000x1000-000000-80-0-0.jpg",
+    "album": "Celebrate!",
+    "year": 1980,
+    "genre": "rbsoulfunk",
+    "lengthSeconds": 290
   },
   {
     "song-title": "Chaise Longue",
@@ -8343,7 +8911,11 @@
       "vocals": 4,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/18143c459b594f229181a525bd0a47fd/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/18143c459b594f229181a525bd0a47fd/1000x1000-000000-80-0-0.jpg",
+    "album": "DROPPED OUTTA COLLEGE",
+    "year": 2019,
+    "genre": "hiphoprap",
+    "lengthSeconds": 118
   },
   {
     "song-title": "Closer to the Edge",
@@ -8473,7 +9045,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/acab0eec4dca657129907a8cac083645/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/acab0eec4dca657129907a8cac083645/1000x1000-000000-80-0-0.jpg",
+    "album": "So Wrong, It's Right",
+    "year": 2007,
+    "genre": "emo",
+    "lengthSeconds": 189
   },
   {
     "song-title": "DOA",
@@ -8577,7 +9153,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/dd6af81a0d098fdd32e824fd43f2635d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/dd6af81a0d098fdd32e824fd43f2635d/1000x1000-000000-80-0-0.jpg",
+    "album": "That's the Spirit",
+    "year": 2015,
+    "genre": "numetal",
+    "lengthSeconds": 225
   },
   {
     "song-title": "Electric Love",
@@ -8590,7 +9170,11 @@
       "vocals": 4,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/15ae05926c0424c4a87417af50daa664/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/15ae05926c0424c4a87417af50daa664/1000x1000-000000-80-0-0.jpg",
+    "album": "Dopamine",
+    "year": 2015,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 218
   },
   {
     "song-title": "Empty Walls",
@@ -8616,7 +9200,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/e73716d037ee24f1331a8c0332526590/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/e73716d037ee24f1331a8c0332526590/1000x1000-000000-80-0-0.jpg",
+    "album": "Violator",
+    "year": 1990,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 249
   },
   {
     "song-title": "Even Flow",
@@ -8668,7 +9256,11 @@
       "vocals": 4,
       "band": 5
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a126ed991ddaefe1a4b7bebcd3b5f101/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a126ed991ddaefe1a4b7bebcd3b5f101/1000x1000-000000-80-0-0.jpg",
+    "album": "Doppelgänger",
+    "year": 2005,
+    "genre": "rock",
+    "lengthSeconds": 241
   },
   {
     "song-title": "Fascination",
@@ -8798,7 +9390,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/48bcf7415317ec8dc1181ee55b4b0aeb/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/48bcf7415317ec8dc1181ee55b4b0aeb/1000x1000-000000-80-0-0.jpg",
+    "album": "She's So Unusual",
+    "year": 1983,
+    "genre": "poprock",
+    "lengthSeconds": 228
   },
   {
     "song-title": "Gives You Hell",
@@ -8954,7 +9550,11 @@
       "vocals": 3,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/967a130629950627739b1efbe5dca1c7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/967a130629950627739b1efbe5dca1c7/1000x1000-000000-80-0-0.jpg",
+    "album": "Neck Deep",
+    "year": 2024,
+    "genre": "punk",
+    "lengthSeconds": 231
   },
   {
     "song-title": "Heat Above",
@@ -8967,7 +9567,11 @@
       "vocals": 6,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b6a08a2b0892b2915e6096817d7cff3c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b6a08a2b0892b2915e6096817d7cff3c/1000x1000-000000-80-0-0.jpg",
+    "album": "The Battle at Garden's Gate",
+    "year": 2021,
+    "genre": "rock",
+    "lengthSeconds": 342
   },
   {
     "song-title": "Heat of the Moment",
@@ -9032,7 +9636,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/18a61113ea28b3261a97c6ca167f00ba/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/18a61113ea28b3261a97c6ca167f00ba/1000x1000-000000-80-0-0.jpg",
+    "album": "Toto",
+    "year": 1978,
+    "genre": "poprock",
+    "lengthSeconds": 240
   },
   {
     "song-title": "Homesick",
@@ -9045,7 +9653,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/19c0debcbcffb7c3e70f5e0dcd1966a5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/19c0debcbcffb7c3e70f5e0dcd1966a5/1000x1000-000000-80-0-0.jpg",
+    "album": "Homesick",
+    "year": 2022,
+    "genre": "indierock",
+    "lengthSeconds": 200
   },
   {
     "song-title": "Hurt",
@@ -9058,7 +9670,11 @@
       "vocals": 2,
       "band": 0
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5de0b769e2b11c687f344e54128ac14c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5de0b769e2b11c687f344e54128ac14c/1000x1000-000000-80-0-0.jpg",
+    "album": "Ugly Is Beautiful",
+    "year": 2018,
+    "genre": "alternative",
+    "lengthSeconds": 151
   },
   {
     "song-title": "I Can't Keep My Eyes Off of You",
@@ -9097,7 +9713,11 @@
       "vocals": 3,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/82bb160fe7b46cca64dc989a4f5843d0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/82bb160fe7b46cca64dc989a4f5843d0/1000x1000-000000-80-0-0.jpg",
+    "album": "Armageddon: The Album",
+    "year": 1998,
+    "genre": "rock",
+    "lengthSeconds": 277
   },
   {
     "song-title": "I Fought the Law",
@@ -9123,7 +9743,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ea30377840f4ef9ac62406c5e16e9c4b/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ea30377840f4ef9ac62406c5e16e9c4b/1000x1000-000000-80-0-0.jpg",
+    "album": "The E.N.D",
+    "year": 2009,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 294
   },
   {
     "song-title": "I Hate Everything About You",
@@ -9162,7 +9786,11 @@
       "vocals": 2,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/a3a993722dda7ee0d192b79e1bafa853/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/a3a993722dda7ee0d192b79e1bafa853/1000x1000-000000-80-0-0.jpg",
+    "album": "No Fun Mondays",
+    "year": 2020,
+    "genre": "alternative",
+    "lengthSeconds": 137
   },
   {
     "song-title": "I Wanna Rock",
@@ -9175,7 +9803,11 @@
       "vocals": 1,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/321fb7cf825b4b4bebb3650d8537bc76/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/321fb7cf825b4b4bebb3650d8537bc76/1000x1000-000000-80-0-0.jpg",
+    "album": "Stay Hungry",
+    "year": 1984,
+    "genre": "glam",
+    "lengthSeconds": 197
   },
   {
     "song-title": "I Won't Back Down",
@@ -9344,7 +9976,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f7c4f4208c4bafd612bd1fdab08cd6e7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f7c4f4208c4bafd612bd1fdab08cd6e7/1000x1000-000000-80-0-0.jpg",
+    "album": "Chuck Berry Is on Top",
+    "year": 1959,
+    "genre": "classicrock",
+    "lengthSeconds": 163
   },
   {
     "song-title": "Jolene",
@@ -9396,7 +10032,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/20e59298116c8a1c9bcaab0c56c3a0e4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/20e59298116c8a1c9bcaab0c56c3a0e4/1000x1000-000000-80-0-0.jpg",
+    "album": "What If Nothing",
+    "year": 2017,
+    "genre": "poprock",
+    "lengthSeconds": 198
   },
   {
     "song-title": "Karma Chameleon",
@@ -9409,7 +10049,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d81a729eef520198f77d3de7e0fb6458/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/d81a729eef520198f77d3de7e0fb6458/1000x1000-000000-80-0-0.jpg",
+    "album": "Colour by Numbers",
+    "year": 1983,
+    "genre": "new_wave",
+    "lengthSeconds": 225
   },
   {
     "song-title": "Kings and Queens",
@@ -9513,7 +10157,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/b6a08a2b0892b2915e6096817d7cff3c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/b6a08a2b0892b2915e6096817d7cff3c/1000x1000-000000-80-0-0.jpg",
+    "album": "The Battle at Garden's Gate",
+    "year": 2021,
+    "genre": "rock",
+    "lengthSeconds": 270
   },
   {
     "song-title": "Linger",
@@ -9630,7 +10278,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/12d6aee3ee97b732bf14c4a50d3161c2/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/12d6aee3ee97b732bf14c4a50d3161c2/1000x1000-000000-80-0-0.jpg",
+    "album": "Crimson",
+    "year": 2005,
+    "genre": "punk",
+    "lengthSeconds": 173
   },
   {
     "song-title": "Message in a Bottle",
@@ -9682,7 +10334,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/819a381af9372f741787144848278399/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/819a381af9372f741787144848278399/1000x1000-000000-80-0-0.jpg",
+    "album": "August and Everything After",
+    "year": 1993,
+    "genre": "alternative",
+    "lengthSeconds": 274
   },
   {
     "song-title": "Music Is Worth Living For",
@@ -9695,7 +10351,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/13fddd4ca8cb8bc5b5d85257d2211ba0/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/13fddd4ca8cb8bc5b5d85257d2211ba0/1000x1000-000000-80-0-0.jpg",
+    "album": "You're Not Alone",
+    "year": 2018,
+    "genre": "rock",
+    "lengthSeconds": 266
   },
   {
     "song-title": "Natural",
@@ -9708,7 +10368,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/974997a0db8d1d0c2de1ebde4275997f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/974997a0db8d1d0c2de1ebde4275997f/1000x1000-000000-80-0-0.jpg",
+    "album": "Origins",
+    "year": 2018,
+    "genre": "alternative",
+    "lengthSeconds": 192
   },
   {
     "song-title": "Need You Now",
@@ -9734,7 +10398,11 @@
       "vocals": 5,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/433ce4072595090a6b2add706416d311/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/433ce4072595090a6b2add706416d311/1000x1000-000000-80-0-0.jpg",
+    "album": "Made in the A.M.",
+    "year": 2015,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 215
   },
   {
     "song-title": "Never Too Late",
@@ -9747,7 +10415,11 @@
       "vocals": 2,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/2bda9b70f023c72f8afa9e3e673abeb4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/2bda9b70f023c72f8afa9e3e673abeb4/1000x1000-000000-80-0-0.jpg",
+    "album": "One-X",
+    "year": 2006,
+    "genre": "rock",
+    "lengthSeconds": 212
   },
   {
     "song-title": "Nice Guys Finish Last",
@@ -9786,7 +10458,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/5031be71dae75a0da86313bd5d03d204/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/5031be71dae75a0da86313bd5d03d204/1000x1000-000000-80-0-0.jpg",
+    "album": "Panic Attack",
+    "year": 2022,
+    "genre": "alternative",
+    "lengthSeconds": 249
   },
   {
     "song-title": "Numb",
@@ -9929,7 +10605,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/807fdcea57e5c1c0324ee76157fba51c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/807fdcea57e5c1c0324ee76157fba51c/1000x1000-000000-80-0-0.jpg",
+    "album": "Permanent Vacation",
+    "year": 1987,
+    "genre": "rock",
+    "lengthSeconds": 258
   },
   {
     "song-title": "Re: Your Brains",
@@ -10007,7 +10687,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/865466746e2c5b00ff089e1682afd1b4/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/865466746e2c5b00ff089e1682afd1b4/1000x1000-000000-80-0-0.jpg",
+    "album": "Concrete and Gold",
+    "year": 2017,
+    "genre": "alternative",
+    "lengthSeconds": 328
   },
   {
     "song-title": "Runaway",
@@ -10059,7 +10743,11 @@
       "vocals": 6,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/18e7b041bb54ae11cd9a4f19f068572f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/18e7b041bb54ae11cd9a4f19f068572f/1000x1000-000000-80-0-0.jpg",
+    "album": "Shout!",
+    "year": 1959,
+    "genre": "rbsoulfunk",
+    "lengthSeconds": 263
   },
   {
     "song-title": "Show Me The Way (Live)",
@@ -10085,7 +10773,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/4fd07406ef0cfa6dab31fd68d71eb2b7/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4fd07406ef0cfa6dab31fd68d71eb2b7/1000x1000-000000-80-0-0.jpg",
+    "album": "Talking Is Hard",
+    "year": 2014,
+    "genre": "poprock",
+    "lengthSeconds": 202
   },
   {
     "song-title": "Sk8er Boi",
@@ -10098,7 +10790,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/1130d6301d5e87976279ea2f706fcc26/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/1130d6301d5e87976279ea2f706fcc26/1000x1000-000000-80-0-0.jpg",
+    "album": "Let Go",
+    "year": 2002,
+    "genre": "poprock",
+    "lengthSeconds": 208
   },
   {
     "song-title": "Slow Ride",
@@ -10163,7 +10859,11 @@
       "vocals": 4,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0f199c359f6be20d2146514b7c421978/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0f199c359f6be20d2146514b7c421978/1000x1000-000000-80-0-0.jpg",
+    "album": "Welcome Interstate Managers",
+    "year": 2003,
+    "genre": "poprock",
+    "lengthSeconds": 201
   },
   {
     "song-title": "Steady, As She Goes",
@@ -10202,7 +10902,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/620bcd9a3310b1bfaba639b060b54abf/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/620bcd9a3310b1bfaba639b060b54abf/1000x1000-000000-80-0-0.jpg",
+    "album": "Midnight Memories",
+    "year": 2013,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 246
   },
   {
     "song-title": "Sugar, You",
@@ -10228,7 +10932,11 @@
       "vocals": 1,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/f178f502c5c003276bb843e2a0cd6e2f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f178f502c5c003276bb843e2a0cd6e2f/1000x1000-000000-80-0-0.jpg",
+    "album": "Pink Friday 2",
+    "year": 2023,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 175
   },
   {
     "song-title": "Superman",
@@ -10241,7 +10949,11 @@
       "vocals": 4,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/ab9a711817cbf9e24fbfba88c192681c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ab9a711817cbf9e24fbfba88c192681c/1000x1000-000000-80-0-0.jpg",
+    "album": "Hang-Ups",
+    "year": 1997,
+    "genre": "reggaeska",
+    "lengthSeconds": 190
   },
   {
     "song-title": "Superstition",
@@ -10293,7 +11005,11 @@
       "vocals": 6,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/1000x1000-000000-80-0-0.jpg",
+    "album": "Hozier",
+    "year": 2014,
+    "genre": "indierock",
+    "lengthSeconds": 243
   },
   {
     "song-title": "That's What You Get",
@@ -10345,7 +11061,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/0f256c4bebac58a7c4122e0e639303a8/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/0f256c4bebac58a7c4122e0e639303a8/1000x1000-000000-80-0-0.jpg",
+    "album": "Born This Way",
+    "year": 2011,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 322
   },
   {
     "song-title": "The Foundations Of Decay",
@@ -10358,7 +11078,11 @@
       "vocals": 5,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/69fe1f10c581d1bb432dcefe11fc3a1c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/69fe1f10c581d1bb432dcefe11fc3a1c/1000x1000-000000-80-0-0.jpg",
+    "album": "The Foundations of Decay",
+    "year": 2022,
+    "genre": "emo",
+    "lengthSeconds": 360
   },
   {
     "song-title": "The Funeral",
@@ -10371,7 +11095,11 @@
       "vocals": 3,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/471eb929e57403fa5df6c556526c2fff/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/471eb929e57403fa5df6c556526c2fff/1000x1000-000000-80-0-0.jpg",
+    "album": "YUNGBLUD",
+    "year": 2022,
+    "genre": "alternative",
+    "lengthSeconds": 214
   },
   {
     "song-title": "The Joker",
@@ -10514,7 +11242,11 @@
       "vocals": 3,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/247b228179aea3b083eef43522b78b45/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/247b228179aea3b083eef43522b78b45/1000x1000-000000-80-0-0.jpg",
+    "album": "Evolve",
+    "year": 2017,
+    "genre": "alternative",
+    "lengthSeconds": 187
   },
   {
     "song-title": "Time After Time",
@@ -10527,7 +11259,11 @@
       "vocals": 1,
       "band": 1
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/48bcf7415317ec8dc1181ee55b4b0aeb/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/48bcf7415317ec8dc1181ee55b4b0aeb/1000x1000-000000-80-0-0.jpg",
+    "album": "She's So Unusual",
+    "year": 1983,
+    "genre": "poprock",
+    "lengthSeconds": 228
   },
   {
     "song-title": "Time Bomb",
@@ -10644,7 +11380,11 @@
       "vocals": 4,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/c0a1d1281570ad3becbb6146c6d54c0c/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/c0a1d1281570ad3becbb6146c6d54c0c/1000x1000-000000-80-0-0.jpg",
+    "album": "American Beauty/American Psycho",
+    "year": 2014,
+    "genre": "poprock",
+    "lengthSeconds": 216
   },
   {
     "song-title": "Under Pressure",
@@ -10852,7 +11592,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/95f254f5a4b63ed50250e64386343ec8/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/95f254f5a4b63ed50250e64386343ec8/1000x1000-000000-80-0-0.jpg",
+    "album": "Up All Night",
+    "year": 2011,
+    "genre": "popdanceelectronic",
+    "lengthSeconds": 202
   },
   {
     "song-title": "What's My Age Again?",
@@ -10891,7 +11635,11 @@
       "vocals": 3,
       "band": 4
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/74410d729460542e3ab3542a885ac22f/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/74410d729460542e3ab3542a885ac22f/1000x1000-000000-80-0-0.jpg",
+    "album": "Anthem of the Peaceful Army",
+    "year": 2018,
+    "genre": "rock",
+    "lengthSeconds": 225
   },
   {
     "song-title": "Where I Belong",
@@ -11008,7 +11756,11 @@
       "vocals": 2,
       "band": 2
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/bc0ca84841a98ea63016062df48142e1/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/bc0ca84841a98ea63016062df48142e1/1000x1000-000000-80-0-0.jpg",
+    "album": "Rise and Fall, Rage and Grace",
+    "year": 2008,
+    "genre": "punk",
+    "lengthSeconds": 180
   },
   {
     "song-title": "Youngblood",
@@ -11021,7 +11773,11 @@
       "vocals": 3,
       "band": 3
     },
-    "cover": "https://cdn-images.dzcdn.net/images/cover/3bbfddbac4bcfc7e2b19fb86619d7ee5/1000x1000-000000-80-0-0.jpg"
+    "cover": "https://cdn-images.dzcdn.net/images/cover/3bbfddbac4bcfc7e2b19fb86619d7ee5/1000x1000-000000-80-0-0.jpg",
+    "album": "Youngblood",
+    "year": 2018,
+    "genre": "poprock",
+    "lengthSeconds": 206
   },
   {
     "song-title": "Younger Lungs",
