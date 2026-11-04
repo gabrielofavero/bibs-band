@@ -1,4 +1,5 @@
 dist/
 node_modules/
+site.config.local
 .DS_Store
 Thumbs.db

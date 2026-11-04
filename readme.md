@@ -47,6 +47,55 @@ make a private LAN host reachable from a phone. See
 reverse-proxy setup, pairing, and capability behavior. For a local site served
 by the host, use `"same-origin"` with a null base URL instead.
 
+## Test Bibs Band with local YARG
+
+Run these commands in **PowerShell on the computer running YARG**. Complete the
+checkout and dependency install under **Build and publish** once first. Keep the
+checked-in `site.config.json` disabled for Pages; make an ignored local copy
+that connects to the host serving the page:
+
+```powershell
+# Terminal 1, from the bibs-band repository root
+node -e "const fs=require('node:fs'); const c=JSON.parse(fs.readFileSync('site.config.json','utf8')); c.backend.mode='same-origin'; c.backend.baseUrl=null; fs.writeFileSync('site.config.local',JSON.stringify(c,null,2))"
+$env:HUB_SITE_CONFIG = (Resolve-Path .\site.config.local).Path
+npm run build
+Remove-Item Env:HUB_SITE_CONFIG
+```
+
+`site.config.local` is ignored by Git. The resulting `dist/` is the Bibs
+catalog with the live backend enabled. Start the host in another PowerShell
+terminal:
+
+```powershell
+# Terminal 2, from the bibs-band repository root
+cd .\game-setlist-hub
+$env:YASS_CLIENT_DIST = (Resolve-Path ..\dist).Path
+$env:HUB_BIND_HOST = '127.0.0.1'
+npm run build --workspace=server
+npm start
+```
+
+Leave Terminal 2 running and open `http://localhost:4321` on that computer.
+This address serves the Bibs build and its `/api` routes from one process.
+Scan songs once in YARG's Music Library before checking Setlist. The host
+startup log should report a found song cache and a nonzero song count; check
+`http://localhost:4321/api/capabilities` if Setlist stays unavailable.
+If the default YARG data location is wrong, set `HUB_YARG_DATA_DIR` to the
+existing channel directory containing `songcache.bin` **before** `npm start`.
+
+Browsing live songs needs only the cache. Setlist editing also needs BepInEx 5
+and the [YARG Setlist Bridge](https://github.com/d4g/YARG-Setlist-Bridge#install)
+running in an editable YARG scene. To try an install, set
+`HUB_YARG_SONGS_DIR` before `npm start` to an existing custom-songs directory
+that YARG scans. Create a pairing code from Download mode on the host computer,
+pair the browser, then install. After the job says refresh pending, use YARG's
+**Music Library → Scan Songs**; the host cannot trigger that scan.
+
+For a phone on the same LAN, start the host with
+`$env:HUB_BIND_HOST = '0.0.0.0'` instead and open the LAN URL printed by the
+host. Keep the phone and YARG computer on the same network. This local test
+does not require GitHub Pages or a public HTTPS host.
+
 To check the reusable build with a second configuration, set `HUB_SITE_CONFIG`
 to an absolute path to another config before `npm run build`. For example, the
 core's `site.config.example.json` builds its small fixture catalog. Restore the
