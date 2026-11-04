@@ -9,7 +9,11 @@
 
   /* --------------------------------------------------------------- config */
 
-  const DATA_URL = 'assets/json/rock-band.json';
+  // One local catalogue per game, each a flat array of songs
+  const DATA_SOURCES = [
+    'assets/json/rock-band.json',
+    'assets/json/fortnite-festival.json'
+  ];
 
   // Fortnite Festival's free jam tracks rotate daily at 00:00 UTC and there is
   // no official public endpoint for them, so we read a community mirror of it.
@@ -126,13 +130,8 @@
     bindEvents();
 
     try {
-      const response = await fetch(DATA_URL, { cache: 'no-cache' });
-      if (!response.ok) {
-        throw new Error(`HTTP ${response.status}`);
-      }
-
-      const raw = await response.json();
-      state.songs = raw.map(normalizeSong).filter(Boolean);
+      const songs = await fetchLocalSongs();
+      state.songs = songs.map(normalizeSong).filter(Boolean);
       dom.loader.hidden = true;
 
       refresh();
@@ -141,6 +140,21 @@
       dom.loaderText.textContent = 'Could not load the song library';
       console.error('Failed to load the song library', error);
     }
+  }
+
+  // Every local catalogue is required, so a missing file fails the boot
+  async function fetchLocalSongs() {
+    const lists = await Promise.all(
+      DATA_SOURCES.map(async url => {
+        const response = await fetch(url, { cache: 'no-cache' });
+        if (!response.ok) {
+          throw new Error(`${url} responded with ${response.status}`);
+        }
+        return response.json();
+      })
+    );
+
+    return lists.reduce((all, list) => all.concat(Array.isArray(list) ? list : []), []);
   }
 
   // Turn a raw JSON entry into the shape the renderer expects
