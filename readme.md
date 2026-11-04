@@ -1,10 +1,13 @@
 # Bibs Band — Music Library
 
 This is my music-game song catalog for friends choosing what to play. The
-published site uses the pinned `game-setlist-hub` core for its UI; this repo owns
+Pages build uses the pinned `game-setlist-hub` core for its UI; this repo owns
 only the catalog, branding, site configuration, and build workflow. The original
 standalone site remains at the repository root during the migration. GitHub
 Pages publishes `dist/` after the shared build passes.
+The current pin is a review commit, not a tagged release. Publication and the
+real-game/phone checks are still pending; see the core's
+[`release checks`](game-setlist-hub/docs/RELEASE-CHECKS.md).
 
 ## Catalog files
 
