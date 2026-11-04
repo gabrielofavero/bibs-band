@@ -32,6 +32,7 @@ The output is `dist/`. It contains the shared UI, the three declared catalogs,
 the logo, and the site icons. It does not copy `catalog/`, the original
 standalone HTML/CSS/JS, host settings, or local DLC. The GitHub Actions workflow
 uses the same commands and deploys `dist/` on pushes to `main` or manual runs.
+This is a source build and static site deployment; no executable is released.
 In the repository's **Settings → Pages**, select **GitHub Actions** as the
 build/deployment source. The workflow needs the core submodule revision to be
 available from its configured GitHub URL.
