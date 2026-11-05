@@ -19,5 +19,5 @@
   },
   "legalNotice": "Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.",
   "backend": { "mode": "same-origin", "baseUrl": null },
-  "modeLabels": { "setlist": "Music Library", "download": "Download", "offline": "Offline" }
+  "modeLabels": { "setlist": "YARG", "offline": "Offline" }
 }
