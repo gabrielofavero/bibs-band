@@ -19,19 +19,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
+          repository: gabrielofavero/game-setlist-hub
+          ref: main
+          path: hub-core
           submodules: recursive
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
           cache: npm
-          cache-dependency-path: game-setlist-hub/package-lock.json
+          cache-dependency-path: hub-core/package-lock.json
       - run: npm ci --ignore-scripts
-        working-directory: game-setlist-hub
-      - run: npm run build
+        working-directory: hub-core
+      - run: npm run build:static
+        working-directory: hub-core
+        env:
+          HUB_TEMPLATE_DIR: ${{ github.workspace }}
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: hub-core/client/dist
   deploy:
     environment:
       name: github-pages

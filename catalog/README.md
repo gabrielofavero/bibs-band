@@ -39,4 +39,4 @@ image in `assets/img/`: `cover-rb4.jpg`, `cover-fn-festival.jpg`, or
 
 The site uses the local game cover if an allowed image later fails to load. A build
 with `HUB_VALIDATE_ART=1` checks the currently allowed remote URLs and writes
-an ignored, per-URL report at `game-setlist-hub/client/.hub-artwork-report.json`.
+an ignored, per-URL report at the hub checkout's `client/.hub-artwork-report.json`.

@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build.mjs",
     "resolve:yarg-art": "node scripts/resolve-yarg-art.mjs"
   },
   "engines": {

@@ -1,4 +1,6 @@
 dist/
+game-setlist-hub/
+hub-core/
 node_modules/
 site.config.local
 .DS_Store

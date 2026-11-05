@@ -1,98 +1,40 @@
-# Bibs Band — Music Library
+# Bibs Band template
 
-This is my music-game song catalog for friends choosing what to play. The
-Pages build uses the pinned `game-setlist-hub` core for its UI; this repo owns
-only the catalog, branding, site configuration, and build workflow. GitHub
-Pages publishes `dist/` after the shared build passes.
-The current pin is a review commit, not a tagged release. Publication and the
-real-game/phone checks are still pending; see the core's
-[`release checks`](game-setlist-hub/docs/RELEASE-CHECKS.md).
+This folder supplies the Bibs Band catalog and appearance to Game Setlist Hub.
+It does not contain the hub or build its UI. `site.config.json` declares the
+public catalogs, branding, cover fallbacks, and optional backend. The `catalog/`
+reports are maintainer records and are not published. `favicon.ico` is copied
+when present. `site.config.local` is an ignored local variant; point
+`HUB_SITE_CONFIG` at it to use it instead of the checked-in configuration.
 
-## Catalog files
+## Build and preview
 
-The three JSON arrays in `assets/json` are the public catalog. Edit them
-directly; `site.config.json` lists them. The review reports in `catalog/` are
-maintainer records and stay out of `dist/`. See the core's
-[`catalog setup`](game-setlist-hub/docs/CATALOG.md) for the file format.
+Install Node 20 or newer and check out
+[Game Setlist Hub](https://github.com/gabrielofavero/game-setlist-hub) separately.
+From the hub checkout, set `HUB_TEMPLATE_DIR` to this folder:
 
-## Build and publish
-
-Use Node 20 or newer. From a clean checkout:
-
-```sh
+```powershell
+cd ..\game-setlist-hub
 git submodule update --init --recursive
-cd game-setlist-hub
 npm ci --ignore-scripts
-cd ..
-npm run build
+$env:HUB_TEMPLATE_DIR = (Resolve-Path ..\bibs-band).Path
+npm run build:static
+npm run preview --workspace=client
 ```
 
-The output is `dist/`. It contains the shared UI, the three declared catalogs,
-the logo, the three game cover fallbacks, and the favicon. It does not copy
-`catalog/`, host settings, or local DLC. The GitHub Actions workflow
-uses the same commands and deploys `dist/` on pushes to `main` or manual runs.
-This is a source build and static site deployment; no executable is released.
-In the repository's **Settings → Pages**, select **GitHub Actions** as the
-build/deployment source. The workflow needs the core submodule revision to be
-available from its configured GitHub URL.
+The static output is `game-setlist-hub/client/dist/`. For live YARG features,
+run `npm run build` and `npm start` in the hub checkout with the same variable.
+For development, `npm run dev` prepares this template and starts the client
+and host. The hub's [deployment guide](https://github.com/gabrielofavero/game-setlist-hub/blob/main/docs/DEPLOYMENT.md)
+describes host settings and catalog format.
 
-The site opens the Bibs catalog in offline mode when it cannot reach YARG.
-A GitHub Pages copy of these files cannot reach a same-origin Node host, so it
-stays in offline mode. Serving the build through the host as described below
-enables the live YASS view when scanned YARG songs are available. The Setlist
-Bridge is needed for setlist controls. Catalog
-cover URLs and the three local game covers remain available in both modes.
+The Pages workflow checks out the hub during CI and publishes the output from
+this template. Publish the matching hub changes before running that workflow.
 
-## Test Bibs Band with local YARG
+`npm run resolve:yarg-art` remains a Bibs catalog maintenance command. It
+updates `assets/json/yarg.json` and `catalog/yarg-artwork-report.json` using
+existing cover matches and Deezer lookups.
 
-Run these commands in **PowerShell on the computer running YARG**. Complete the
-checkout and dependency install under **Build and publish** once first. The
-checked-in configuration already uses the host at the same origin:
-
-```powershell
-# Terminal 1, from the bibs-band repository root
-npm run build
-```
-
-Start the host in another PowerShell terminal:
-
-```powershell
-# Terminal 2, from the bibs-band repository root
-cd .\game-setlist-hub
-$env:YASS_CLIENT_DIST = (Resolve-Path ..\dist).Path
-$env:HUB_BIND_HOST = '127.0.0.1'
-npm run build --workspace=server
-npm start
-```
-
-Leave Terminal 2 running and open `http://localhost:4321` on that computer.
-This address serves the Bibs build and its `/api` routes from one process.
-Scan songs once in YARG's Music Library before checking Setlist. The host
-startup log should report a found song cache and a nonzero song count; check
-`http://localhost:4321/api/capabilities` if Setlist stays unavailable.
-If the default YARG data location is wrong, set `HUB_YARG_DATA_DIR` to the
-existing channel directory containing `songcache.bin` **before** `npm start`.
-
-Browsing scanned YARG songs works without the bridge. Editing the live setlist requires
-BepInEx 5 and the
-[YARG Setlist Bridge](https://github.com/d4g/YARG-Setlist-Bridge#install)
-connected to YARG, plus an editable YARG scene. To try an install, set
-`HUB_YARG_SONGS_DIR` before `npm start` to an existing custom-songs directory
-that YARG scans. Create a pairing code from Download mode on the host computer,
-pair the browser, then install. After the job says refresh pending, use YARG's
-**Music Library → Scan Songs**; the host cannot trigger that scan.
-
-For a phone on the same LAN, start the host with
-`$env:HUB_BIND_HOST = '0.0.0.0'` instead and open the LAN URL printed by the
-host. Keep the phone and YARG computer on the same network. This local test
-does not require GitHub Pages or a public HTTPS host.
-
-To check the reusable build with a second configuration, set `HUB_SITE_CONFIG`
-to an absolute path to another config before `npm run build`. For example, the
-core's `site.config.example.json` builds its small fixture catalog. Restore the
-Bibs build by clearing the variable and running `npm run build` again.
-
-The Bibs catalog retains its existing GPLv2-only notice. The
-new shared core has its own `LICENSE` and `THIRD-PARTY-NOTICES.md`; review those
-with any redistributed build. The legal notice for Epic content is in the
-public site config.
+The Bibs catalog retains its existing GPLv2-only notice. Review the hub's
+license and third-party notices with any redistributed build. The Epic legal
+notice is in the public site configuration.
