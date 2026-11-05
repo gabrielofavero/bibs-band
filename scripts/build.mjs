@@ -25,10 +25,7 @@ if (result.status !== 0) process.exit(result.status ?? 1)
 
 await rm(dist, { recursive: true, force: true })
 await cp(join(core, 'client', 'dist'), dist, { recursive: true })
-for (const name of ['favicon.ico', 'favicon-16x16.png', 'favicon-32x32.png', 'apple-touch-icon.png',
-  'android-chrome-192x192.png', 'android-chrome-256x256.png', 'mstile-150x150.png', 'safari-pinned-tab.svg']) {
-  await cp(join(root, name), join(dist, name))
-}
+await cp(join(root, 'favicon.ico'), join(dist, 'favicon.ico'))
 const site = JSON.parse(await readFile(join(dist, 'site.config.json'), 'utf8'))
 const title = `${site.siteName} · Music Library`.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
 const html = (await readFile(join(dist, 'index.html'), 'utf8'))
@@ -36,14 +33,6 @@ const html = (await readFile(join(dist, 'index.html'), 'utf8'))
   .replace(/<meta name="theme-color" content="[^"]*"\s*\/>/, `<meta name="theme-color" content="${site.branding.backgroundColor}" />`)
   .replace(/<!-- The publishing build may replace this title and add its own icon\. -->/, '<link rel="icon" href="./favicon.ico" />')
 await writeFile(join(dist, 'index.html'), html)
-await writeFile(join(dist, 'site.webmanifest'), JSON.stringify({
-  name: site.siteName,
-  short_name: site.siteName,
-  icons: [192, 256].map((size) => ({ src: `./android-chrome-${size}x${size}.png`, sizes: `${size}x${size}`, type: 'image/png' })),
-  theme_color: site.branding.backgroundColor,
-  background_color: site.branding.backgroundColor,
-  display: 'standalone',
-}, null, 2))
 for (const name of await readdir(join(dist, 'assets'))) {
   if (name.endsWith('.map')) await rm(join(dist, 'assets', name))
 }

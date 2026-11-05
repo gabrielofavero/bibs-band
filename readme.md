@@ -2,8 +2,7 @@
 
 This is my music-game song catalog for friends choosing what to play. The
 Pages build uses the pinned `game-setlist-hub` core for its UI; this repo owns
-only the catalog, branding, site configuration, and build workflow. The original
-standalone site remains at the repository root during the migration. GitHub
+only the catalog, branding, site configuration, and build workflow. GitHub
 Pages publishes `dist/` after the shared build passes.
 The current pin is a review commit, not a tagged release. Publication and the
 real-game/phone checks are still pending; see the core's
@@ -29,8 +28,8 @@ npm run build
 ```
 
 The output is `dist/`. It contains the shared UI, the three declared catalogs,
-the logo, and the site icons. It does not copy `catalog/`, the original
-standalone HTML/CSS/JS, host settings, or local DLC. The GitHub Actions workflow
+the logo, the three game cover fallbacks, and the favicon. It does not copy
+`catalog/`, host settings, or local DLC. The GitHub Actions workflow
 uses the same commands and deploys `dist/` on pushes to `main` or manual runs.
 This is a source build and static site deployment; no executable is released.
 In the repository's **Settings → Pages**, select **GitHub Actions** as the
@@ -40,7 +39,8 @@ available from its configured GitHub URL.
 The site opens the Bibs catalog in offline mode when it cannot reach YARG.
 A GitHub Pages copy of these files cannot reach a same-origin Node host, so it
 stays in offline mode. Serving the build through the host as described below
-enables the live YASS view when YARG's Setlist Bridge is connected. Catalog
+enables the live YASS view when scanned YARG songs are available. The Setlist
+Bridge is needed for setlist controls. Catalog
 cover URLs and the three local game covers remain available in both modes.
 
 ## Test Bibs Band with local YARG
@@ -73,9 +73,10 @@ startup log should report a found song cache and a nonzero song count; check
 If the default YARG data location is wrong, set `HUB_YARG_DATA_DIR` to the
 existing channel directory containing `songcache.bin` **before** `npm start`.
 
-Browsing now requires BepInEx 5 and the
+Browsing scanned YARG songs works without the bridge. Editing the live setlist requires
+BepInEx 5 and the
 [YARG Setlist Bridge](https://github.com/d4g/YARG-Setlist-Bridge#install)
-connected to YARG. Editing also needs an editable YARG scene. To try an install, set
+connected to YARG, plus an editable YARG scene. To try an install, set
 `HUB_YARG_SONGS_DIR` before `npm start` to an existing custom-songs directory
 that YARG scans. Create a pairing code from Download mode on the host computer,
 pair the browser, then install. After the job says refresh pending, use YARG's
@@ -91,7 +92,7 @@ to an absolute path to another config before `npm run build`. For example, the
 core's `site.config.example.json` builds its small fixture catalog. Restore the
 Bibs build by clearing the variable and running `npm run build` again.
 
-The Bibs catalog and legacy site retain their existing GPLv2-only notice. The
+The Bibs catalog retains its existing GPLv2-only notice. The
 new shared core has its own `LICENSE` and `THIRD-PARTY-NOTICES.md`; review those
 with any redistributed build. The legal notice for Epic content is in the
 public site config.
